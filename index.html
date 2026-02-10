@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tests Funerarios</title>
+  <style>
+    body { font-family: system-ui, Arial; margin: 18px; line-height: 1.35; max-width: 980px; }
+    h1 { margin: 0 0 10px; }
+    .panel { border: 1px solid #ddd; border-radius: 12px; padding: 14px; margin: 12px 0; }
+    .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+    input, select, button { padding: 10px 12px; border-radius: 10px; border: 1px solid #333; }
+    button { cursor: pointer; }
+    .muted { color: #666; }
+    .q { border: 1px solid #ddd; border-radius: 12px; padding: 12px; margin: 10px 0; }
+    .q h3 { margin: 0 0 8px; font-size: 16px; }
+    .opt { margin: 6px 0; }
+    .result { border: 1px solid #333; border-radius: 12px; padding: 14px; margin-top: 14px; }
+    .ok { color: #0a7; font-weight: 700; }
+    .bad { color: #c33; font-weight: 700; }
+    .tag { font-size: 12px; padding: 3px 8px; border: 1px solid #ddd; border-radius: 999px; color: #555; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border-bottom: 1px solid #eee; padding: 8px; text-align: left; }
+    .small { font-size: 13px; }
+    .danger { border-color:#c33; color:#c33; }
+  </style>
+</head>
+
+<body>
+  <h1>Tests Online</h1>
+  <p class="muted">Correcta +0,50 · Incorrecta −0,15 · Blancas 0 · Nota sobre 15</p>
+
+  <div class="panel">
+    <div class="row">
+      <label class="small">Fuente:</label>
+      <select id="sourceSelect">
+        <option value="json">questions.json (local)</option>
+        <option value="sheet">Google Sheet (CSV publicado)</option>
+      </select>
+
+      <input id="sheetUrl" style="min-width:380px; display:none;"
+        placeholder="Pega aquí la URL CSV publicada de Google Sheets" />
+
+      <label class="small">Nº preguntas:</label>
+      <input id="numQuestions" type="number" min="1" value="20" style="width:100px;" />
+
+      <label class="small">Mezclar opciones:</label>
+      <select id="shuffleOptions">
+        <option value="yes" selected>Sí</option>
+        <option value="no">No</option>
+      </select>
+
+      <button id="loadBtn">Cargar preguntas</button>
+      <button id="startBtn" class="danger" disabled>Generar test aleatorio</button>
+    </div>
+
+    <div id="status" class="muted" style="margin-top:10px;">Carga una fuente y pulsa “Cargar preguntas”.</div>
+  </div>
+
+  <div id="quiz"></div>
+
+  <div class="row" style="margin-top:10px;">
+    <button id="finishBtn" disabled>Finalizar y corregir</button>
+    <button id="resetBtn" disabled>Reset (nuevo intento)</button>
+  </div>
+
+  <div id="result" class="result" style="display:none;"></div>
+
+  <div class="panel">
+    <div class="row" style="justify-content:space-between;">
+      <strong>Historial guardado</strong>
+      <button id="clearHistoryBtn">Borrar historial</button>
+    </div>
+    <div id="history"></div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

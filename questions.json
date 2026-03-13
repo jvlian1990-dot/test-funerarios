@@ -825,7 +825,7 @@
     "La gestion exclusiva de los cementerios de titularidad privada",
     "La regulacion de las practicas de trasplantes de organos y tejidos"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
   },
   {
   "id": "PDF-USO",
@@ -837,7 +837,7 @@
     "El contro de la libertad religiosa en los entierros",
     "La gestion administrativa del Registro Civil en materia de definiciones"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
    },
    {
   "id": "PDF-USO",
@@ -849,7 +849,7 @@
     "A la Dirección General de Salud Pública y Participación y a los Ayuntamientos",
     "Exclusivamente a la Consejería de Salud"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
    },
    {
   "id": "PDF-USO",
@@ -861,7 +861,7 @@
     "Establecer las medidas de actuacion ante riesgos derivados del contagio o irradiaciones de los cadaveres",
     "La organizacion y administracion de los cementerios de titularidad municipal"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
    },
    {
   "id": "PDF-USO",
@@ -873,7 +873,7 @@
     "El medico que firma el certificado de defuncion",
     "EL juez de Guardia"
   ],
-  "answerIndex":2 
+  "answerIndex":1 
    },
    {
   "id": "PDF-USO",
@@ -885,7 +885,7 @@
     "Emitir informes sobre riesgos de irradiacion de cadaveres",
     "LA inspeccion de cadaveres en exposiciones publicas"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
   },
   {
   "id": "PDF-USO",
@@ -897,7 +897,7 @@
     "Los restos oseos una vez desaparecida la materia organica",
     "El cuerpo humano desde el fallecimiento hasta su inhumacion"
   ],
-  "answerIndex": 3
+  "answerIndex": 2
   },
   {
   "id": "PDF-USO",
@@ -909,7 +909,7 @@
     "Desde la fecha y hora de la uerte que figure en la inscripcion de la defuncion en el Registro Civil",
     "Desde la llegada al tanatorio"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
   },
   {
   "id": "PDF-USO",
@@ -921,7 +921,7 @@
     "EL cuerpo humano durante los dos primero años tras la defuncion",
     "Las cenizas resultantes de la incineracion"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
   },
   {
   "id": "PDF-USO",
@@ -933,7 +933,2409 @@
     "Los restos oseos pulverizados manualmente tras la exhumacion",
     "El producto de la descomposicion natural en fosa septica"
   ],
-  "answerIndex": 2
+  "answerIndex": 1
+  },
+  {
+    "id": "SM-001",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 1, ¿cuál es el objeto principal del Decreto 11/2018?",
+    "options": [
+      "La regulación de la policía sanitaria mortuoria a nivel estatal.",
+      "Regular el ejercicio de la sanidad mortuoria en el ámbito territorial de la comunidad autónoma de las Illes Balears.",
+      "La gestión exclusiva de los cementerios de titularidad privada.",
+      "La regulación de las prácticas de trasplantes de órganos y tejidos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-002",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué comprende la sanid ad mortuoria como parte integrante de la actividad de la Administración pública en materia de salud?",
+    "options": [
+      "Únicamente la regulación de las prácticas sanitarias sobre cadáveres.",
+      "Las condiciones técnicas de las instalaciones, servicios funerarios y la función inspectora y sancionadora.",
+      "El control de la libertad religiosa en los entierros.",
+      "La gestión administrativa del Registro Civil en materia de defunciones."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-003",
+    "topic": "Sanidad Mortuoria",
+    "question": "De acuerdo con el artículo 2, ¿a qué órganos se atribuyen las facultades administrativas en materia de sanidad mortuoria en las Illes Balears?",
+    "options": [
+      "Al Ministerio de Sanidad y a los Ayuntamientos.",
+      "A la Dirección General de Salud Pública y Participación y a los Consejos Insulares.",
+      "A la Dirección General de Salud Pública y Participación y a los Ayuntamientos.",
+      "Exclusivamente a la Consejería de Salud."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-004",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál de las siguientes es una función específica de la Dirección General de Salud Pública y Participación?",
+    "options": [
+      "La regulación de los servicios funerarios dentro de cada municipio.",
+      "La habilitación de las entidades prestadoras de servicios funerarios locales.",
+      "Establecer las medidas de actuación ante riesgos derivados del contagio o irradiaciones de los cadáveres.",
+      "La organización y administración de los cementerios de titularidad municipal."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-005",
+    "topic": "Sanidad Mortuoria",
+    "question": "En situaciones epidemiológicas, ¿quién tiene la competencia para ordenar el destino final de un cadáver?",
+    "options": [
+      "El Ayuntamiento correspondiente.",
+      "La Dirección General de Salud Pública y Participación.",
+      "El médico que firma el certificado de defunción.",
+      "El Juez de Guardia."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-006",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué función corresponde a los Ayuntamientos según el artículo 2.3?",
+    "options": [
+      "Realizar la inspección de traslados interinsulares.",
+      "La tramitación y resolución de los procedimientos de construcción, ampliación, reforma o clausura de las instalaciones funerarias.",
+      "Emitir informes sobre riesgos de irradiación de cadáveres.",
+      "La inspección de cadáveres en exposiciones públicas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-007",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según las definiciones del artículo 3, ¿qué se entiende por \"Cadáver\"?",
+    "options": [
+      "El cuerpo humano durante los diez años siguientes a la muerte.",
+      "El cuerpo humano durante los cinco años siguientes a la muerte.",
+      "Los restos óseos una vez desaparecida la materia orgánica.",
+      "El cuerpo humano desde el fallecimiento hasta su inhumación."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-008",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Desde qué momento se computa el plazo para considerar a un cuerpo como \"cadáver\"?",
+    "options": [
+      "Desde el momento del hallazgo del cuerpo.",
+      "Desde la firma del certificado médico de defunción.",
+      "Desde la fecha y hora de la muerte que figure en la inscripción de la defunci ón en el Registro Civil.",
+      "Desde la llegada al tanatorio."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-009",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué define el Decreto como \"Restos cadavéricos\"?",
+    "options": [
+      "Partes del cuerpo procedentes de abortos a partir de la semana 14.",
+      "Lo que queda del cuerpo humano una vez transcurridos cinco años de sde la muerte, si han acabado los fenómenos de destrucción de materia orgánica.",
+      "El cuerpo humano durante los dos primeros años tras la defunción.",
+      "Las cenizas resultantes de la incineración."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-010",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es la definición de \"Cenizas\" según la norma?",
+    "options": [
+      "El residuo de la combustión de materiales del féretro.",
+      "Lo que queda de un cadáver, restos humanos o restos cadavéricos después de la cremación.",
+      "Los restos óseos pulverizados manualmente tras la exhumación.",
+      "El producto de la descomposición natural en fosa séptica."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-011",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué es un \"Columbario\"?",
+    "options": [
+      "Una fosa común para restos cadavéricos.",
+      "Una construcción funeraria para depositar las urnas con cenizas.",
+      "Una sala destinada a velar el cadáver.",
+      "El lugar donde se realizan las autopsias clínicas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-012",
+    "topic": "Sanidad Mortuoria",
+    "question": "El término \"Tanatopraxia\" abarca, según el artículo 3:",
+    "options": [
+      "Únicamente el embalsamamiento de cadáveres.",
+      "El traslado de cadáveres por vía aérea.",
+      "El conjunto de técnicas para retrasar o impedir la putrefacción, así como la tanatoplastia y ta natoestética.",
+      "La gestión administrativa de las licencias de entierro."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-013",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se considera \"Restos humanos\" según el artículo 3.q?",
+    "options": [
+      "Partes del cuerpo procedentes de abortos antes de la semana 12.",
+      "Cabello, uñas y apéndices de un cadáver.",
+      "Partes del cuerpo de entidad suficiente procedentes de abortos a partir de la semana 14, o amputaciones de extremidades a partir del nivel metacarpiano o metatarsiano.",
+      "Exclusivamente los órganos internos extraídos en una autopsia."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-014",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿A qué temperatura debe estar un \"Túmulo\" (cámara de exposición)?",
+    "options": [
+      "Igual o inferior a 18ºC.",
+      "Entre 10ºC y 15ºC.",
+      "Igual o inferior a 5ºC.",
+      "A temperatura ambiente controlada."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-015",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cómo se clasifican los cadáveres en el Grupo I?",
+    "options": [
+      "Aquellos cuya causa de muerte no presenta riesgos infectocontagiosos.",
+      "Los que presentan un riesgo para la salud pública por enfermedades infectocontagiosas del anexo 1 o contaminación radiacti va.",
+      "Cadáveres destinados exclusivamente a la investigación científica.",
+      "Restos cadavéricos de más de 10 años de antigüedad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-016",
+    "topic": "Sanidad Mortuoria",
+    "question": "Si un médico sospecha de riesgos por contagio o irradiación al firmar el certificado de defunción, ¿a quién debe informar?",
+    "options": [
+      "Al Alcalde del municipio.",
+      "A la consejería competente en materia de salud.",
+      "Al Registro Civil directamente.",
+      "A la entidad funeraria para que proceda al embalsamamiento."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-017",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 6, ¿cuál es el destino final obligatorio para los cadáveres del Grupo I?",
+    "options": [
+      "La inhumación en cripta.",
+      "La incineración (salvo riesgo radiactivo, que seguirá lo dispuesto por la autoridad en seguridad nuclear).",
+      "El uso para docencia e investigación.",
+      "La inhumación en fosa común."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-018",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Pueden los cadáveres del Grupo II destinarse a finalidades científicas?",
+    "options": [
+      "No, deben ser inhumados o incinerados obligatoriamente de forma inmediata.",
+      "Sí, conforme al artículo 7, aunque su destino final seguirá siendo la inhumación o incineración.",
+      "Solo si el fallecimiento ocurrió en un hospital universitario.",
+      "Solo si no tienen familiares conocidos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-019",
+    "topic": "Sanidad Mortuoria",
+    "question": "Para ceder un cadáver no reclamado a la docencia, ¿cuál es el plazo mínimo de espera tras la defunción?",
+    "options": [
+      "24 horas.",
+      "10 días.",
+      "Un mes.",
+      "Un año."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-020",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién decide la técnica de preservación adecuada (refrigeración, conservación, etc.) seg ún el artículo 9?",
+    "options": [
+      "La familia del difunto exclusivamente.",
+      "El profesional responsable de las prácticas.",
+      "El funcionario del Ayuntamiento.",
+      "El celador del depósito."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-021",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué titulación debe tener el profesional que realice operaciones de embal samamiento?",
+    "options": [
+      "Auxiliar de enfermería con curso de estética.",
+      "Licenciatura/grado en Medicina o certificado de profesionalidad en tanatopraxia según RD 1535/2011.",
+      "Técnico superior en anatomía patológica.",
+      "Cualquier trabajador de una empresa funeraria con 5 años de experiencia."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-022",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 10, ¿cuál es la temperatura de congelación de un cadáver?",
+    "options": [
+      "Igual o inferior a 0ºC.",
+      "Igual o inferior a -5ºC.",
+      "Igual o inferior a -18ºC.",
+      "Entre -10ºC y -15ºC."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-023",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuánto tiempo debe transcur rir como mínimo desde la certificación de defunción para someter un cadáver a refrigeración?",
+    "options": [
+      "1 hora.",
+      "4 horas.",
+      "24 horas.",
+      "48 horas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-024",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Y para someterlo a congelación?",
+    "options": [
+      "Al menos 4 horas.",
+      "Al menos 12 horas.",
+      "Al menos 24 horas.",
+      "Al menos 72 horas."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-025",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el plazo máximo que un cadáver puede permanecer en refrigeración?",
+    "options": [
+      "48 horas.",
+      "3 días.",
+      "6 días.",
+      "30 días."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-026",
+    "topic": "Sanidad Mortuoria",
+    "question": "Si un cadáver no está refrigerado ni preservado, ¿en qué plazo debe ser inhumado o incinerado obligator iamente?",
+    "options": [
+      "Antes de las 24 horas.",
+      "Transcurridas 48 horas desde la defunción.",
+      "A los 5 días.",
+      "No hay plazo si el féretro es especial."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-027",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuándo es obligatoria la conservación transitoria según el artículo 11?",
+    "options": [
+      "Siempre que el cadáver sea del Grupo II.",
+      "Si no se inhuma o incinera antes de las 48 horas (salvo refrigeración o congelación).",
+      "Únicamente para traslados dentro del mismo municipio.",
+      "Para todos los cadáveres que vayan a ser incinerados."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-028",
+    "topic": "Sanidad Mortuoria",
+    "question": "El embalsamamiento es obligatorio para:",
+    "options": [
+      "Traslados interinsulares por vía marítima de menos de 2 horas.",
+      "Inhumaciones en criptas existentes.",
+      "Todos los cadáveres del Grupo I.",
+      "Traslados de cenizas al extranjero."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-029",
+    "topic": "Sanidad Mortuoria",
+    "question": "En traslados interinsulares por vía marítima, ¿es obligatorio el embalsamamiento?",
+    "options": [
+      "Sí, siempre.",
+      "No, quedan exceptuados, aunque si el trayecto supera las 3 horas se trasladarán refrigerados.",
+      "Solo si el cadáver es del Grupo I.",
+      "Solo si lo solicita el capitán del buque."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-030",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué plazo mínimo debe transcurrir para la inhumación o incineración de un cadáver (regla general)?",
+    "options": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "72 horas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-031",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿En qué caso NO se aplica el plazo mínimo de 24 horas para la inhumación/incineración?",
+    "options": [
+      "En casos de muerte violenta.",
+      "En supuestos de donación de órganos, piezas anatómicas y tejidos.",
+      "Cuando lo solicite la familia por motivos religiosos.",
+      "Cuando el fallecimiento ocurre en fin de semana."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-032",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué documentos debe exigir la entidad de cementerio para una inhumación?",
+    "options": [
+      "Solo el DNI del fallecido.",
+      "Certificado médico de defunción y licencia de entierro.",
+      "El testamento vital del difunto.",
+      "La factura pagada del servicio funerario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-033",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Está permitida la inhumación de más de un cadáver por féretro?",
+    "options": [
+      "No, en ningún caso.",
+      "Sí, siempre que sean familiares de primer grado.",
+      "Únicamente en casos de madres y recién nacidos muertos en el parto, o catástrofes con riesgo epidemiológico.",
+      "Sí, si el nicho es de dimensiones especiales."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-034",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué requisitos deben cumplir los féretros para la inhumación común?",
+    "options": [
+      "Ser de metal inoxidable.",
+      "Ser de materiales fácilmente degradables que faciliten la descomposición.",
+      "Ser herméticos con válvula de gases.",
+      "Deben tener un acabado de barniz sintético brillante."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-035",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Dónde se pueden esparcir las cenizas de un cadáver incinerado?",
+    "options": [
+      "En cualquier parque público urbano.",
+      "En zonas habitadas con permiso del Alcalde.",
+      "En el mar, a una distancia mínima de la costa de 200 metros, o en lugares habilitados.",
+      "Únicamente dentro de un columbario."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-036",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el plazo general por debajo del cual NO se puede exhumar un cadáver?",
+    "options": [
+      "Un año.",
+      "Dos años de la inhumación.",
+      "Cinco años de la inhumación.",
+      "Diez años de la inhumación."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-037",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿En qué periodo del año está prohibida la exhumación con carácter general (salvo orden judicial o necesidad extrema)?",
+    "options": [
+      "Del 1 de diciembre al 31 de marzo.",
+      "Del 1 de junio al 30 de septiembre.",
+      "Durante la Semana Santa.",
+      "No hay prohibición estacional."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-038",
+    "topic": "Sanidad Mortuoria",
+    "question": "Para el traslado de un cadáver exhumado a otra comunidad autónoma, ¿qué debe presentar la entidad funeraria?",
+    "options": [
+      "Una autorización del Ministerio del Interior.",
+      "Una declaración responsable a la Dirección General de Salud Pública y Participación.",
+      "El acta de exhumación firmada por un notario.",
+      "Una fianza económica en el Ayuntamiento."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-039",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué es un \"Féretro de recogida\" según el artículo 16?",
+    "options": [
+      "El féretro de madera definitivo.",
+      "Una caja impermeable de fácil limpieza y desinfección, que no será el féretro definitivo.",
+      "Una bolsa de plástico reforzada.",
+      "El que se utiliza para traslados internacionales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-040",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿A qué norma UNE deben ajustarse los féretros comunes?",
+    "options": [
+      "UNE 190001:2017.",
+      "ISO 9001.",
+      "UNE-EN 1501.",
+      "No se especifica ninguna norma técnica."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-041",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué caracteriza a un \"Féretro especial\"?",
+    "options": [
+      "Es de cartón biodegradable.",
+      "Es una caja estanca, revestida de material absorbente y con dispositivos para filtrar gases.",
+      "Es el que se usa exclusivamente para niños.",
+      "Es aquel que tiene decoraciones religiosas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-042",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿En qué caso es obligatorio el uso de un féretro especial?",
+    "options": [
+      "Para todas las incineraciones.",
+      "Para cadáveres del Grupo I y traslados por vía aérea o marítima.",
+      "Para traslados en coche fúnebre de menos de 10 km.",
+      "Solo si lo solicita el seguro de decesos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-043",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cómo debe ser el traslado de cadáveres del Grupo I?",
+    "options": [
+      "En féretro común sin medidas adicionales.",
+      "En féretro especial y directamente al lugar de incineración o inhumación especial.",
+      "No se pueden trasladar fuera del hospital.",
+      "Pueden trasladarse en vehículos particulares si la distancia es corta."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-044",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 19, ¿cuándo se considera un traslado \"ordinario\"?",
+    "options": [
+      "Cuando se realiza dentro de la misma isla.",
+      "Cuando se realiza a otra comunidad autónoma.",
+      "Cuando el cadáver es del Grupo I.",
+      "Cuando se realiza por vía aérea."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-045",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se requiere para el traslado interinsular de un cadáver del Grupo II?",
+    "options": [
+      "Autorización previa de la Dirección General de Salud Pública.",
+      "Únicamente la comunicación del servicio por la entidad funeraria (no requiere autorización administrativa previa).",
+      "Un permiso especial de la autoridad portuaria.",
+      "Que el cadáver esté congelado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-046",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué documento es necesario para el traslado de cadáveres a otras comunidades autónomas?",
+    "options": [
+      "Pasaporte sanitario mortuorio internacional.",
+      "Comunicación previa a la Dirección General de Salud Pública y Participación.",
+      "Autorización del Delegado del Gobierno.",
+      "Solo la factura del servicio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-047",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién es responsable de la vigilancia y custodia de un cadáver durante su exposición en un tanatorio?",
+    "options": [
+      "El personal de limpieza.",
+      "La entidad autorizada para la gestión del tanatorio.",
+      "La policía local.",
+      "Los familiares, obligatoriamente por turnos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-048",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿En qué supuesto se permite la exposición de un cadáver en un lugar público distinto de un tanatorio?",
+    "options": [
+      "Siempre que lo pida una asociación cultural.",
+      "En casos de personalidades de relevancia social, política o cultural, previa comunicación.",
+      "Si el fallecido no tenía seguro.",
+      "Nunca está permitido."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-049",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué requisito sanitario es obligatorio para exponer un cadáver en un lugar público (fuera de tanatorio)?",
+    "options": [
+      "Solo refrigeración.",
+      "Embalsamamiento.",
+      "Uso de mascarillas por el público.",
+      "Que el cadáver sea del Grupo I."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-050",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 22, ¿cuál es el plazo máximo de exposición de un cadáver en un tanatorio?",
+    "options": [
+      "24 horas.",
+      "48 horas (salvo refrigeración/congelación).",
+      "Una semana.",
+      "No hay límite si la familia paga el servicio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-051",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 23, ¿qué característica debe tener el habitáculo destinado al féretro en un vehículo fúnebre?",
+    "options": [
+      "Debe ser de madera noble para mejorar la estética.",
+      "Debe ser de material impermeable y de fácil limpieza y desinfección.",
+      "Debe estar comunicado directamente con la cabina del conductor.",
+      "Debe permitir el transporte de al menos tres féretros simultáneamente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-052",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Es obligatorio que el habitáculo del féretro esté separado de la cabina del conductor?",
+    "options": [
+      "No, siempre que haya una mampara transparente.",
+      "Sí, mediante un elemento separador estanco y hermético.",
+      "Solo si el cadáver pertenece al Grupo I.",
+      "Solo para traslados de más de 100 kilómetros."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-053",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los vehículos fúnebres deben disponer de un sistema de climatización que mantenga el habitáculo del cadáver a:",
+    "options": [
+      "Una temperatura no superior a 10ºC.",
+      "Una temperatura constante de 0ºC.",
+      "Una temperatura que evite la aceleración de la putrefacción durante el trayecto.",
+      "Exactamente 5ºC, controlados por termógrafo."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-054",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué debe portar un vehículo fúnebre para situaciones de r otura de un féretro o pérdida de líquidos, según el artículo 23.3?",
+    "options": [
+      "Una manguera de agua a presión.",
+      "Un kit de reparación de madera.",
+      "Material absorbente y productos desinfectantes autorizados.",
+      "Un segundo féretro de repuesto obligatoriamente."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-055",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 24, ¿pueden utilizarse furgones multiusos para el traslado de cadáveres?",
+    "options": [
+      "Sí, si se limpian después de cada uso.",
+      "No, los vehículos deben estar destinados exclusivamente al transporte fúnebre.",
+      "Sí, pero solo para restos cadavéricos (cenizas).",
+      "Sí, si el Ayuntamiento otorga una dispensa especial."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-056",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué inspección técnica deben pasar los vehículos fúnebres además de la ITV ordinaria?",
+    "options": [
+      "Una revisión trimestral de la Dirección General de Salud Pública.",
+      "Ninguna adicional, la ITV es suficiente para acreditar su estado.",
+      "Una revisión anual del motor de refrigeración.",
+      "Una inspección de la autoridad portuaria en cada traslado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-057",
+    "topic": "Sanidad Mortuoria",
+    "question": "De acuerdo con el artículo 25, los tanatorios deben estar ubicados en:",
+    "options": [
+      "Suelo rústico exclusivamente.",
+      "Un edificio independiente de cualquier otro uso residencial, comercial o administrativo.",
+      "La planta baja de edificios de viviendas, si tienen salida independiente.",
+      "Recintos cerrados anexos a una iglesia."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-058",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el número mínimo de salas de duelo que debe tener un tanatorio según el artículo 26?",
+    "options": [
+      "Una sala.",
+      "Dos salas.",
+      "Tres salas.",
+      "Depende de la población del municipio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-059",
+    "topic": "Sanidad Mortuoria",
+    "question": "Cada sala de duelo en un tanatorio debe contar con:",
+    "options": [
+      "Una zona para familiares y una zona de exposición del cadáver (túmulo) separadas.",
+      "Una cocina completa.",
+      "Un sistema de megafonía conectado con el Ayuntamiento.",
+      "Un acceso directo desde la vía pública para cada sala."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-060",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué requisito técnico debe cumplir el túmulo (cámara de exposición) de un tanatorio?",
+    "options": [
+      "Debe tener paredes de cristal transparente y estar refrigerado.",
+      "Debe permitir la entrada de los familiares para tocar al difunto.",
+      "Debe estar a una temperatura constante de 22ºC.",
+      "Debe tener ventilación natural directa a la calle."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-061",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 26.c, la sala de tanatopraxia debe tener:",
+    "options": [
+      "Suelo de moqueta para evitar ruidos.",
+      "Paredes lisas de material impermeable y fácil limpieza.",
+      "Conexión directa con la cafetería.",
+      "Una superficie mínima de 50 metros cuadrados."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-062",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Es obligatorio que un tanatorio disponga de un aseo para el público?",
+    "options": [
+      "No, es opcional.",
+      "Sí, y debe ser accesible para personas con movilidad reducida.",
+      "Solo si tiene más de 5 salas de duelo.",
+      "Sí, pero puede ser compartido con el personal de la empresa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-063",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los vestuarios para el personal del tanatorio deben contar con:",
+    "options": [
+      "Taquillas individuales y duchas.",
+      "Solo una zona para dejar el uniforme.",
+      "Lavandería industrial obligatoria dentro del edificio.",
+      "No son obligatorios si el personal vive cerca."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-064",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué sistema de ventilación se exige en las salas de tanatopraxia?",
+    "options": [
+      "Ventilación natural mediante ventanas.",
+      "Un sistema de renovación de aire que garantice la ausencia de olores y riesgos ambientales.",
+      "Aire acondicionado estándar de uso doméstico.",
+      "No se exige ventilación si se usan productos químicos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-065",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 27, los velatorios (distintos de tanatorios) pueden realizar prácticas de tanatopraxia:",
+    "options": [
+      "Sí, siempre que tengan un médico.",
+      "No, tienen prohibida la realización de prácticas de tanatopraxia o embalsamamiento.",
+      "Solo si el cadáver es del Grupo II.",
+      "Sí, si el velatorio está en un hospital."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-066",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el requisito de temperatura para los túmulos en los velatorios?",
+    "options": [
+      "No superior a 18ºC.",
+      "Exactamente 0ºC.",
+      "Entre 4ºC y 8ºC.",
+      "La misma que la de la sala de familiares."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-067",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los crematorios deben cumplir con la normativa de:",
+    "options": [
+      "Calidad del aire y protección de la atmósfera.",
+      "Ruidos urbanos únicamente.",
+      "Gestión de aguas residuales radiactivas.",
+      "Propiedad horizontal."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-068",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué debe garantizar el horno crematorio según el artículo 28?",
+    "options": [
+      "La destrucción total de la materia orgánica y el féretro.",
+      "La recuperación de metales preciosos para la familia.",
+      "Que no se produzcan humos visibles en ningún momento.",
+      "La posibilidad de incinerar tres cadáveres a la vez."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-069",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Es obligatorio que un crematorio disponga de un sistema de trituración de restos óseos?",
+    "options": [
+      "No, se pueden entregar los restos enteros.",
+      "Sí, para que las cenizas resultantes sean finas y homogéneas.",
+      "Solo si la familia lo solicita expresamente.",
+      "Está prohibido por ley triturar restos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-070",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 29, ¿quién es el responsable de la gestión y mantenimiento de los cementerios municipales?",
+    "options": [
+      "La Comunidad Autónoma.",
+      "El Ayuntamiento titular del servicio.",
+      "La parroquia más cercana.",
+      "Una comisión de vecinos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-071",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los cementerios deben disponer de un área destinada a la inhumación de:",
+    "options": [
+      "Únicamente personas de religión católica.",
+      "Cadáveres cuya causa de muerte sea desconocida.",
+      "Cenizas y restos cadavéricos (columbarios o jardines de cenizas).",
+      "Animales domésticos si el municipio lo permite."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-072",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué distancia mínima de protección (franja sanitaria) se establece para nuevos cementerio s respecto a zonas residenciales?",
+    "options": [
+      "50 metros.",
+      "100 metros.",
+      "500 metros.",
+      "La que determine el planeamiento urbanístico, respetando un mínimo de seguridad sanitaria."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "SM-073",
+    "topic": "Sanidad Mortuoria",
+    "question": "El cerramiento de un cementerio debe ser:",
+    "options": [
+      "Una valla de tela metálica de 1 metro.",
+      "Un muro o valla de materiales resistentes que impida el acceso de animales y personas no autorizadas.",
+      "De setos vegetales exclusivamente.",
+      "No es obligatorio el cerramiento si hay vigilancia 24 horas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-074",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 31, ¿qué debe existir en un cementerio para el depósito de restos humanos procedentes de exhumaciones?",
+    "options": [
+      "Una hoguera permanente.",
+      "Un osario general.",
+      "Una fosa séptica.",
+      "Un contenedor de residuos orgánicos urbanos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-075",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué requisito deben cumplir las sepulturas para evitar la contaminación de acuíferos?",
+    "options": [
+      "Estar selladas con plomo.",
+      "Estar situadas en terrenos con un drenaje adecuado y niveles freáticos profundos.",
+      "Ser siempre elevadas (nichos), estando prohibidas las fosas en tierra.",
+      "Tener un sistema de bombeo de lixiviados conectado a la red de alcantarillado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-076",
+    "topic": "Sanidad Mortuoria",
+    "question": "En el caso de cementerios que se cierren definitivamente (clausura), ¿cuánto tiempo debe pasar antes de que el terreno pueda usarse para otros fines?",
+    "options": [
+      "5 años tras la última inhumación.",
+      "10 años tras la última exhumación del último cadáver.",
+      "25 años tras la última inhumación.",
+      "50 años."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-077",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 33, ¿qué documento es obligatorio llevar en el cementerio para registrar las inhumaciones?",
+    "options": [
+      "Un diario de visitas.",
+      "Un Libro de Registro, en soporte físico o informático.",
+      "El presupuesto de la obra del nicho.",
+      "Una copia del DNI de todos los visitantes."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-078",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién emite la licencia de enterramiento o incineración?",
+    "options": [
+      "El centro hospitalario.",
+      "El encargado del Registro Civil.",
+      "El Alcalde.",
+      "La Dirección General de Salud Pública."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-079",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se entiende por \"Exhumación ordinaria\"?",
+    "options": [
+      "La que se realiza por orden judicial para una autopsia.",
+      "La que se realiza tras finalizar el tiempo de concesión de la unidad de enterramiento, habiendo pasado 5 años.",
+      "La que se hace antes de las 24 horas del entierro.",
+      "La recogida de cenizas del crematorio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-080",
+    "topic": "Sanidad Mortuoria",
+    "question": "Para exhumar un cadáver antes de los 5 años por motivos de reinhumación en el mismo cementerio, se requiere:",
+    "options": [
+      "Nada, es libre tras 24 horas.",
+      "Autorización de la Dirección General de Salud Pública y Participación.",
+      "Permiso verbal del sepulturero.",
+      "Que el cadáver sea del Grupo I."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-081",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cómo deben transportarse los restos cadavéricos (más de 5 años)?",
+    "options": [
+      "En féretro especial con válvula.",
+      "En cajas de restos (urnas) de dimensiones adecuadas, metálicas o de materiales plásticos.",
+      "Envueltos en una sábana blanca.",
+      "No requieren caja si se mueven dentro del mismo cementerio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-082",
+    "topic": "Sanidad Mortuoria",
+    "question": "El transporte de cenizas resultantes de la cremación:",
+    "options": [
+      "Requiere coche fúnebre obligatoriamente.",
+      "Puede realizarse por cualquier medio de transporte y por cualquier persona, en urnas cerradas.",
+      "Requiere autorización de la delegación de gobierno.",
+      "Está prohibido en transporte público."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-083",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el artículo 38, las empresas funerarias deben estar inscritas en:",
+    "options": [
+      "El Registro de Empresas de Actividades Funerarias de las Illes Balears.",
+      "El Registro Mercantil únicamente.",
+      "La asociación nacional de funerarias.",
+      "No existe un registro específico."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-084",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué debe presentar una empresa para iniciar la actividad de servicios funerarios?",
+    "options": [
+      "Una solicitud de examen de aptitud.",
+      "Una declaración responsable ante la administración sanitaria.",
+      "Una fianza de 1 millón de euros.",
+      "El título de médico del gerente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-085",
+    "topic": "Sanidad Mortuoria",
+    "question": "Las empresas funerarias deben garantizar la prestación del servicio durante:",
+    "options": [
+      "Horario de oficina (8:00 a 15:00).",
+      "Los días laborables únicamente.",
+      "Las 24 horas del día, todos los días del año.",
+      "Los fines de semana bajo demanda previa."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-086",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Es obligatorio que la empresa funeraria facilite un catálogo de precios al público?",
+    "options": [
+      "No, los precios se negocian individualmente.",
+      "Sí, deben tener a disposición del público la lista de precios de todos sus servicios y productos.",
+      "Solo si el cliente lo solicita por escrito.",
+      "Solo para los servicios de beneficencia."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-087",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué requisito de personal mínimo se exige a una empresa funeraria según el Anexo 3?",
+    "options": [
+      "Un médico por cada 1.000 habitantes.",
+      "Al menos dos operarios uniformados para cada servicio de recogida.",
+      "Un vigilante de seguridad jurado.",
+      "Personal administrativo con título de derecho."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-088",
+    "topic": "Sanidad Mortuoria",
+    "question": "En los traslados internacionales, ¿qué normativa prevalece según el artículo 40?",
+    "options": [
+      "El Decreto 11/2018 exclusivamente.",
+      "Los tratados internacionales suscritos por España (como el Acuerdo de Estrasburgo).",
+      "La normativa del país de destino siempre.",
+      "La voluntad de la familia sobre la ley."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-089",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se considera un \"traslado interinsular\"?",
+    "options": [
+      "El movimiento de un cadáver entre Palma y un pueblo de Mallorca.",
+      "El movimiento entre Mallorca, Menorca, Ibiza o Formentera.",
+      "El traslado desde la península a las islas.",
+      "El traslado por carretera dentro de la misma isla."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-090",
+    "topic": "Sanidad Mortuoria",
+    "question": "Para el traslado de restos humanos (amputaciones, abortos), ¿qué féretro se requiere?",
+    "options": [
+      "Féretro especial con válvula.",
+      "Una caja de madera sencilla.",
+      "Recipientes estancos de dimensiones adecuadas que aseguren su cierre hermético.",
+      "No requieren recipiente, se pueden llevar en bolsas de basura."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-091",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién es responsable de verificar que el féretro cumple las condiciones técnicas antes de un traslado?",
+    "options": [
+      "El médico forense.",
+      "La entidad funeraria que realiza el servicio.",
+      "El conductor del camión.",
+      "El guarda del cementerio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-092",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los cadáveres del Grupo I, ¿pueden ser trasladados para su exposición en un domicilio particular?",
+    "options": [
+      "Sí, si la familia firma un descargo de responsabilidad.",
+      "No, el traslado debe ser directo al cementerio o crematorio en féretro especial.",
+      "Sí, pero solo durante 2 horas.",
+      "Solo si están embalsamados."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-093",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué autoridad realiza la función inspectora en materia de sanidad mortuoria?",
+    "options": [
+      "La Policía Nacional.",
+      "El personal inspector de la consejería competente en materia de salud y los inspect ores municipales.",
+      "El Colegio de Médicos.",
+      "La inspección de trabajo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-094",
+    "topic": "Sanidad Mortuoria",
+    "question": "El incumplimiento de los plazos de inhumación o incineración se considera:",
+    "options": [
+      "Una falta de educación únicamente.",
+      "Una infracción administrativa en materia de salud pública.",
+      "Un delito penal de profanación.",
+      "Una causa de despido del sepulturero."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-095",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el régimen sancionador, las infracciones se clasifican en:",
+    "options": [
+      "Leves, menos graves y graves.",
+      "Leves, graves y muy graves.",
+      "Faltas y delitos.",
+      "Administrativas y judiciales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-096",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el plazo de prescripción de las infracciones leves?",
+    "options": [
+      "Un año.",
+      "Dos años.",
+      "Tres años.",
+      "Cinco años."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-097",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién tiene la competencia para imponer sanciones por infracciones muy graves en el ámbito de la Comunidad Autónoma?",
+    "options": [
+      "El Director General de Salud Pública.",
+      "El Consejo de Gobierno de las Illes Balears.",
+      "El Alcalde del municipio.",
+      "El Parlamento Balear."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-098",
+    "topic": "Sanidad Mortuoria",
+    "question": "La falta de limpieza o desinfección de los vehículos fúnebres es una infracción de tipo:",
+    "options": [
+      "Leve.",
+      "Grave.",
+      "Muy grave.",
+      "No está tipificada."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-099",
+    "topic": "Sanidad Mortuoria",
+    "question": "Realizar prácticas de tanatopraxia por personal no cualificado se considera una infracción:",
+    "options": [
+      "Leve.",
+      "Grave.",
+      "Muy grave (si pone en riesgo la salud pública).",
+      "Administrativa de carácter leve."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-100",
+    "topic": "Sanidad Mortuoria",
+    "question": "La carencia de Libro de Registro en un cementerio es una infracción:",
+    "options": [
+      "Leve.",
+      "Grave.",
+      "Muy grave.",
+      "Solo es una irregularidad contable."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-101",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el Anexo 2, ¿cuál es la anchura mínima libre que debe tener un nicho?",
+    "options": [
+      "0,60 metros.",
+      "0,70 metros.",
+      "0,80 metros.",
+      "0,90 metros."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-102",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es la altura mínima libre exigida para un nicho?",
+    "options": [
+      "0,50 metros.",
+      "0,60 metros.",
+      "0,75 metros.",
+      "1,00 metro."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-103",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Y la longitud mínima libre de un nicho según la normativa?",
+    "options": [
+      "2,10 metros.",
+      "2,20 metros.",
+      "2,30 metros.",
+      "2,50 metros."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-104",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los nichos deben construirse con una pendiente mínima hacia el interior de:",
+    "options": [
+      "1%.",
+      "2%.",
+      "5%.",
+      "No deben tener pendiente, deben ser totalmente horizontales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-105",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué característica deben tener las paredes que separan los nichos entre sí?",
+    "options": [
+      "Deben ser de madera tratada.",
+      "Deben ser impermeables a los líquidos y a los gases.",
+      "Deben tener orificios de ventilación entre nichos contiguos.",
+      "Deben ser de cartón-yeso reforzado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-106",
+    "topic": "Sanidad Mortuoria",
+    "question": "El sistema de evacuación de gases de los nichos debe garantizar:",
+    "options": [
+      "Que los gases salgan directamente a la sala de duelo.",
+      "El paso de los gases a través de un filtro absorbente o sistema que garantice su depuración.",
+      "Que los gases se acumulen en el interior del féretro para acelerar la descomposición.",
+      "La conexión con el sistema de alcantarillado municipal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-107",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el Anexo 2, ¿cuál es la profundidad mínima para una fosa o sepultura en tierra?",
+    "options": [
+      "0,80 metros.",
+      "1,00 metro.",
+      "1,50 metros.",
+      "2,00 metros."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-108",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué distancia de separación mínima debe existir entre fosas contiguas en tierra?",
+    "options": [
+      "0,20 metros.",
+      "0,50 metros.",
+      "0,80 metros.",
+      "1,00 metro."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-109",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es la anchura mínima de un columbario destinado a urnas de cenizas?",
+    "options": [
+      "0,20 metros.",
+      "0,40 metros.",
+      "0,60 metros.",
+      "0,80 metros."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-110",
+    "topic": "Sanidad Mortuoria",
+    "question": "En el caso de panteones, ¿qué se exige respecto al acceso a las sepulturas?",
+    "options": [
+      "Debe ser siempre desde el exterior del cementerio.",
+      "Debe permitir la manipulación de los féretros en condiciones de seguridad y dignidad.",
+      "No pueden tener más de dos niveles de enterramiento.",
+      "Deben tener una ventana de ventilación de al menos 1 metro cuadrado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-111",
+    "topic": "Sanidad Mortuoria",
+    "question": "Respecto a los hornos crematorios, el Anexo 2 especifica que la temperatura en la cámara secundaria (co mbustión de gases) debe ser de al menos:",
+    "options": [
+      "500ºC.",
+      "650ºC.",
+      "850ºC.",
+      "1.200ºC."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-112",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el tiempo mínimo de permanencia de los gases en la cámara secundaria del horno para asegurar su depuración?",
+    "options": [
+      "0,5 segundos.",
+      "2 segundos.",
+      "10 segundos.",
+      "1 minuto."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-113",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el Anexo 1, ¿cuál de las siguientes enfermedades se clasifica en el Grupo I por su riesgo infectocontagioso?",
+    "options": [
+      "Gripe estacional.",
+      "Diabetes mellitus.",
+      "Carbunco (Anthrax).",
+      "Hipertensión arterial."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-114",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿En qué grupo se clasifica a un cadáver que presenta una contaminación por sustancias radiactivas?",
+    "options": [
+      "Grupo I.",
+      "Grupo II.",
+      "Grupo III (Cenizas).",
+      "Grupo IV (Restos cadavéricos)."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-115",
+    "topic": "Sanidad Mortuoria",
+    "question": "El Ébola y otras fiebres hemorrágicas virales se clasifican dentro del:",
+    "options": [
+      "Grupo I.",
+      "Grupo II.",
+      "No se mencionan en el Decreto.",
+      "Grupo de riesgo bajo."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-116",
+    "topic": "Sanidad Mortuoria",
+    "question": "Un cadáver que ha fallecido por Legionelosis se clasifica como:",
+    "options": [
+      "Grupo I.",
+      "Grupo II.",
+      "Grupo III.",
+      "Grupo especial de riesgo ambiental."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-117",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el Anexo 3, ¿qué dotación mínima de vehículos fúnebres debe tener una empresa para habilitarse?",
+    "options": [
+      "Al menos uno en propiedad o mediante contrato de arrendamiento.",
+      "Tres vehículos de diferentes colores.",
+      "Un coche fúnebre y un camión cisterna.",
+      "No se exige un número mínimo, solo que estén limpios."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-118",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué tipo de productos químicos pueden usarse para la conservación transitoria y embalsamamiento?",
+    "options": [
+      "Cualquier desinfectante industrial.",
+      "Únicamente los productos biocidas autorizados por la normativa vigente par a este fin.",
+      "Alcohol etílico de 96º exclusivamente.",
+      "Mezclas caseras de formol y agua."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-119",
+    "topic": "Sanidad Mortuoria",
+    "question": "Tras realizar una práctica de tanatopraxia, ¿qué debe emitir el profesional responsable?",
+    "options": [
+      "Una factura detallada.",
+      "Una certificación donde conste la técnica empleada y el producto utilizado.",
+      "Un parte de defunción nuevo.",
+      "Una fotografía del resultado para el archivo municipal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-120",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué superficie mínima debe tener el local destinado a tanatopraxia en un tanatorio?",
+    "options": [
+      "10 metros cuadrados.",
+      "20 metros cuadrados.",
+      "30 metros cuadrados.",
+      "No se establece una superficie mínima, solo que sea suficiente para la actividad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-121",
+    "topic": "Sanidad Mortuoria",
+    "question": "El suelo de la sala de tanatopraxia debe tener una característica específica de evacuación:",
+    "options": [
+      "Debe ser totalmente plano para evitar caídas.",
+      "Debe tener un sumidero con sifón conectado a la red de saneamiento.",
+      "Debe estar cubierto de serrín absorbente.",
+      "Debe tener una rejilla que conecte con el osario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-122",
+    "topic": "Sanidad Mortuoria",
+    "question": "En la zona de exposición de cadáveres (túmulo), el cristal de separación debe ser:",
+    "options": [
+      "Un cristal simple de 2mm.",
+      "Un cristal o material transparente que garantice el aislamiento térmico y estanqueidad.",
+      "Es opcional, puede usarse una cortina de aire.",
+      "Ahumado para que no se vea el cadáver claramente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-123",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los sistemas de aire acondicionado de las salas de velatorio deben garantizar:",
+    "options": [
+      "Una renovación de aire de al menos 10 veces por hora.",
+      "Que el aire recircule constantemente sin filtros.",
+      "El confort térmico de los acompañantes sin requisitos técnicos específicos.",
+      "Que la temperatura nunca baje de los 25ºC."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-124",
+    "topic": "Sanidad Mortuoria",
+    "question": "En el Libro de Registro de un cementerio, ¿qué dato NO es obligatorio según el artículo 33?",
+    "options": [
+      "Fecha de la inhumación o exhumación.",
+      "Identificación del fallecido.",
+      "Unidad de enterramiento ocupada.",
+      "Religión del fallecido."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "SM-125",
+    "topic": "Sanidad Mortuoria",
+    "question": "Si se produce un traslado internacional de cenizas, ¿qué documento es necesario?",
+    "options": [
+      "Ninguno, las cenizas no tienen requisitos sanitarios.",
+      "El certificado de cremación y el salvoconducto de la autoridad sanitaria.",
+      "Solo una declaración jurada del familiar.",
+      "Autorización expresa del Ministerio de Asuntos Exteriores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-126",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cómo se denomina el féretro que tiene un revestimiento interior de metal (normalmente zinc) soldado?",
+    "options": [
+      "Féretro de madera sencilla.",
+      "Féretro especial (o de traslado).",
+      "Féretro de exposición.",
+      "Féretro biodegradable."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-127",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se hace con los residuos generados en una práctica de tanatopraxia (gasas, guantes, fluidos)?",
+    "options": [
+      "Se tiran al contenedor de basura orgánica.",
+      "Se incineran junto con el cadáver.",
+      "Se gestionan como residuos sanitarios según la normativa específica de residuos.",
+      "Se entierran en el osario general."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-128",
+    "topic": "Sanidad Mortuoria",
+    "question": "En la incineración de restos humanos procedentes de abortos, ¿qué se requiere?",
+    "options": [
+      "Licencia de enterramiento o documento equivalente de la autoridad judicial o sanitaria.",
+      "Únicamente el consentimiento verbal de la madre.",
+      "Un permiso de la parroquia.",
+      "No se pueden incinerar, deben ir a fosa común."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-129",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué autoridad es competente para clausurar un cementerio por razones sanitarias?",
+    "options": [
+      "El cura párroco.",
+      "El Alcalde, a propuesta de la autoridad sanitaria o por iniciativa propia.",
+      "El Jefe de la Policía Local.",
+      "El Presidente del Gobierno del Estado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-130",
+    "topic": "Sanidad Mortuoria",
+    "question": "Durante el transporte ordinario de un cadáver, el vehículo fúnebre debe llevar:",
+    "options": [
+      "Las luces de emergencia encendidas en todo momento.",
+      "El certificado de defunción y la licencia de entierro o comunicación de traslado.",
+      "Una escolta policial.",
+      "Flores naturales obligatoriamente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-131",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se entiende por \"Inhumación inmediata\" en el contexto de riesgos sanitarios?",
+    "options": [
+      "La que se hace en menos de 1 hora.",
+      "La que se realiza sin pasar por tanatorio, directamente del lugar de fallecimiento al cementerio.",
+      "La que se hace en el jardín del domicilio.",
+      "La que se realiza sin féretro."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-132",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el Decreto, los cementerios deben contar con un sistema de agua potable para:",
+    "options": [
+      "El riego de flores únicamente.",
+      "El uso de los aseos y la limpieza de las instalaciones.",
+      "Llenar las fuentes ornamentales.",
+      "No es obligatorio tener agua potable."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-133",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué ocurre con las prótesis o marcapasos antes de una cremación?",
+    "options": [
+      "Se dejan en el cuerpo siempre.",
+      "Deben ser retirados si presentan riesgo de explosión o contaminación ambiental.",
+      "Se entregan a la familia como recuerdo.",
+      "Se funden y se venden para fines benéficos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-134",
+    "topic": "Sanidad Mortuoria",
+    "question": "La distancia mínima entre el suelo de una fosa y el nivel freático máximo debe ser de:",
+    "options": [
+      "0,10 metros.",
+      "0,50 metros.",
+      "1,00 metro.",
+      "No importa si el terreno es arcilloso."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-135",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién debe firmar la declaración responsable para el inicio de actividad de una funeraria?",
+    "options": [
+      "El médico de guardia.",
+      "El representante legal de la empresa.",
+      "El presidente de la comunidad de propietarios donde se ubique.",
+      "El notario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-136",
+    "topic": "Sanidad Mortuoria",
+    "question": "El uso de productos químicos en la limpieza de los vehículos fúnebres debe estar:",
+    "options": [
+      "Prohibido por ser tóxico.",
+      "Registrado en un libro de mantenimiento de la empresa.",
+      "Supeditado a que huelan a pino o lavanda.",
+      "Autorizado por la DGT."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-137",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se considera \"entidad funeraria\" según el artículo 3?",
+    "options": [
+      "Una ONG que ayuda en entierros.",
+      "La persona física o jurídica que presta servicios funerarios de forma habitual.",
+      "El cementerio municipal exclusivamente.",
+      "El taller que fabrica los féretros."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-138",
+    "topic": "Sanidad Mortuoria",
+    "question": "En una exhumación por orden judicial, ¿prevalece el Decreto 11/2018?",
+    "options": [
+      "Sí, en todos sus puntos.",
+      "No, se estará a lo dispuesto por la autoridad judicial, sin perjuicio de las medidas sanitarias.",
+      "Solo si el juez es de las Illes Balears.",
+      "Solo si la exhumación se hace en verano."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-139",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los depósitos de cadáveres de los hospitales, ¿deben cumplir con los requisitos de los tanatorios?",
+    "options": [
+      "Sí, si se usan para velar cadáveres por parte de las familias.",
+      "No, tienen una normativa propia de hospitales y no pueden ser usados como tanatorios.",
+      "Solo si el hospital es privado.",
+      "Solo los de los hospitales psiquiátricos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-140",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Puede una empresa funeraria ofrecer sus servicios dentro de los hospitales de forma proactiva?",
+    "options": [
+      "Sí, es libre competencia.",
+      "No, está prohibida la publicidad o gestión de servicios funerarios en los centros sanitarios.",
+      "Solo si tienen un mostrador autorizado.",
+      "Solo si el paciente ha fallecido en urgencias."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-141",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué es un \"depósito de cenizas\" en un cementerio?",
+    "options": [
+      "Una papelera especial.",
+      "Un espacio destinado a la inhumación de urnas o el esparcimiento de cenizas (jardín del recuerdo).",
+      "El lugar donde se guardan las herramientas del sepulturero.",
+      "Un almacén de carbón para el horno."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-142",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el diámetro mínimo de los conductos de ventilación de los nichos?",
+    "options": [
+      "2 centímetros.",
+      "5 centímetros.",
+      "10 centímetros.",
+      "No se especifica diámetro, solo que sea suficiente."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-143",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Es obligatorio que un cementerio tenga una capilla o sala multiconfesional?",
+    "options": [
+      "Sí, siempre.",
+      "No, pero deben respetarse los derechos de libertad de culto en las ceremonias.",
+      "Solo si el municipio tiene más de 50.000 habitantes.",
+      "Está prohibido por la ley de laicidad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-144",
+    "topic": "Sanidad Mortuoria",
+    "question": "La retirada de restos cadavéricos de un nicho para su traslado al osario general se considera:",
+    "options": [
+      "Una exhumación con fines de reubicación por falta de pago o fin de concesión.",
+      "Un robo de restos.",
+      "Una práctica de tanatopraxia.",
+      "Una actividad administrativa ordinaria del Registro Civil."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-145",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué requisito debe cumplir el personal que realiza la recogida de cadáveres en el lugar del fallecimiento?",
+    "options": [
+      "Debe ser personal médico.",
+      "Debe ir uniformado y contar con equipos de protección individual (EPIs) si hay riesgo.",
+      "Debe ser familiar directo.",
+      "No requiere ninguna condición especial."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-146",
+    "topic": "Sanidad Mortuoria",
+    "question": "El traslado de un cadáver desde el lugar del fallecimiento al tanatorio, ¿en qué vehículo debe hacerse?",
+    "options": [
+      "En cualquier furgoneta blanca.",
+      "En un vehículo fúnebre que cumpla los requisitos del artículo 23.",
+      "En una ambulancia de soporte vital básico.",
+      "En el coche particular del médico."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-147",
+    "topic": "Sanidad Mortuoria",
+    "question": "Si un cadáver del Grupo II se va a incinerar, ¿es necesario el embalsamamiento?",
+    "options": [
+      "Sí, obligatoriamente.",
+      "No, salvo que el traslado o el tiempo de espera lo hagan necesario por razones sanitarias.",
+      "Está prohibido embalsamar si se va a incinerar.",
+      "Solo si lo pide el operario del horno."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-148",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién supervisa que las empresas funerarias mantengan los requisitos de su declaración responsable?",
+    "options": [
+      "La Dirección General de Salud Pública y Participación.",
+      "El Ministerio de Hacienda.",
+      "La cámara de comercio.",
+      "Nadie, una vez presentada ya no se revisa."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-149",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los féretros destinados a la cremación NO deben contener:",
+    "options": [
+      "Madera.",
+      "Elementos metálicos, plásticos o materiales que generen emisiones tóxicas al quemarse.",
+      "Tela en el interior.",
+      "Papel o cartón."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-150",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Se permite la incineración de un cadáver con el féretro de zinc (especial)?",
+    "options": [
+      "Sí, es lo ideal.",
+      "No, se debe retirar el revestimiento metálico antes de la cremación por razones ambientales y técnicas.",
+      "Solo si el horno es de última generación.",
+      "Solo si el cadáver es del Grupo I."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-151",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el plazo para que el Ayuntamiento comunique a la Dirección General de Salud Pública las empresas funerarias establecidas en su municipio tras la entrada en vigor del Decreto?",
+    "options": [
+      "6 meses.",
+      "1 año.",
+      "2 años.",
+      "No hay plazo, es comunicación inmediata."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-152",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según la Disposición Transitoria Primera, ¿de qué plazo disponen los Ayuntamientos para adaptar sus or denanzas municipales al Decreto?",
+    "options": [
+      "1 año.",
+      "2 años.",
+      "5 años.",
+      "Deben estar adaptadas desde el día siguiente a su publicación."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-153",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién tiene la potestad para modificar los Anexos del Decreto 11/2018?",
+    "options": [
+      "El Consejo de Gobierno mediante Decreto.",
+      "El Parlamento de las Illes Balears mediante Ley.",
+      "La Directora General de Salud Pública y Participación mediante resolución .",
+      "Los Alcaldes en sus respectivos municipios."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-154",
+    "topic": "Sanidad Mortuoria",
+    "question": "El régimen sancionador del Decreto se ajusta, entre otras, a:",
+    "options": [
+      "La Ley de Contratos del Sector Público.",
+      "La Ley 14/1986 General de Sanidad.",
+      "El Código Penal.",
+      "El Reglamento de Policía de las Illes Balears."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-155",
+    "topic": "Sanidad Mortuoria",
+    "question": "En materia de trasplantes de órganos, el Decreto 11/2018:",
+    "options": [
+      "Deroga la ley estatal de trasplantes.",
+      "Se aplica de forma preferente a la ley de trasplantes.",
+      "Se entiende sin perjuicio de la Ley 30/1979 de extracción y trasplante de órganos.",
+      "Prohíbe la extracción de órganos si el cadáver es del Grupo I."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-156",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué debe presentar un solicitante si se aprueban tasas para los procedimientos del Decreto?",
+    "options": [
+      "Una declaración jurada de falta de recursos.",
+      "El justificante de pago junto con la documentación requerida.",
+      "No se pueden cobrar tasas por servicios sanitarios mortuorios.",
+      "Un aval bancario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-157",
+    "topic": "Sanidad Mortuoria",
+    "question": "Según el Anexo 1, ¿cuál de estas enfermedades NO pertenece al Grupo I?",
+    "options": [
+      "Cólera.",
+      "Rabia.",
+      "Peste.",
+      "Gripe común."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "SM-158",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los cadáveres contaminados por sustancias radiactivas se consideran siempre:",
+    "options": [
+      "Grupo II.",
+      "Grupo I.",
+      "Grupo III.",
+      "Exentos de clasificación."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-159",
+    "topic": "Sanidad Mortuoria",
+    "question": "Las cenizas resultantes de la incineración pueden esparcirse en el mar a una distancia mínima de la costa de:",
+    "options": [
+      "100 metros.",
+      "200 metros.",
+      "500 metros.",
+      "1 milla náutica."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-160",
+    "topic": "Sanidad Mortuoria",
+    "question": "El transporte de cenizas se realiza:",
+    "options": [
+      "En vehículo fúnebre obligatoriamente.",
+      "De forma libre, con la documentación de la incineración.",
+      "Solo por personal del cementerio.",
+      "Previa autorización de la Conselleria de Salud."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-161",
+    "topic": "Sanidad Mortuoria",
+    "question": "Un féretro común debe cumplir las especificaciones de la norma:",
+    "options": [
+      "ISO 9001.",
+      "UNE 190001:2017.",
+      "UNE-EN 15017.",
+      "No se especifica ninguna norma técnica."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-162",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Se puede reutilizar un féretro?",
+    "options": [
+      "Sí, tras su desinfección.",
+      "Solo si es de madera noble.",
+      "No, salvo el féretro de recogida.",
+      "Solo para traslados dentro del mismo cementerio."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-163",
+    "topic": "Sanidad Mortuoria",
+    "question": "El \"saco de recogida\" debe ser obligatoriamente:",
+    "options": [
+      "De tela de algodón.",
+      "Impermeable, degradable y de un solo uso.",
+      "Reutilizable tras lavado a 90 grados.",
+      "De color negro."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-164",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué debe figurar en la parte exterior de las urnas de cenizas?",
+    "options": [
+      "Solo un número de registro.",
+      "Nombre, apellidos y fecha de defunción.",
+      "El escudo del Ayuntamiento.",
+      "No es obligatorio poner datos externos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-165",
+    "topic": "Sanidad Mortuoria",
+    "question": "La temperatura máxima permitida en un túmulo de exposición es de:",
+    "options": [
+      "0ºC.",
+      "5ºC.",
+      "10ºC.",
+      "18ºC."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-166",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el tiempo máximo que un cadáver puede estar en refrigeración?",
+    "options": [
+      "48 horas.",
+      "3 días.",
+      "6 días.",
+      "No hay límite si la cámara funciona correctamente."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-167",
+    "topic": "Sanidad Mortuoria",
+    "question": "Si un cadáver se extrae de la cámara de refrig eración para ser velado, ¿qué tiempo máximo puede pasar hasta su inhumación o vuelta a cámara?",
+    "options": [
+      "1 hora.",
+      "3 horas.",
+      "5 horas.",
+      "12 horas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-168",
+    "topic": "Sanidad Mortuoria",
+    "question": "El embalsamamiento es obligatorio para inhumaciones en:",
+    "options": [
+      "Nichos aéreos.",
+      "Fosas en tierra.",
+      "Criptas existentes.",
+      "Columbarios."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-169",
+    "topic": "Sanidad Mortuoria",
+    "question": "Un traslado interinsular por vía marítima que dure 4 horas requiere:",
+    "options": [
+      "Embalsamamiento obligatorio.",
+      "Traslado refrigerado.",
+      "Solo féretro común.",
+      "Autorización judicial."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-170",
+    "topic": "Sanidad Mortuoria",
+    "question": "El profesional que realiza una tanatopraxia debe entregar copia de su certificado a:",
+    "options": [
+      "El Registro Civil.",
+      "La entidad encargada del tanatorio y a la funeraria del traslado.",
+      "Únicamente a la familia.",
+      "Al centro de salud más cercano."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-171",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿A partir de qué semana de gestación se consideran \"restos humanos\" los procedentes de abortos?",
+    "options": [
+      "Semana 10.",
+      "Semana 12.",
+      "Semana 14.",
+      "Semana 20."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-172",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los dedos de manos y pies amputados:",
+    "options": [
+      "Se consideran restos humanos.",
+      "Quedan excluidos de la definición de restos humanos.",
+      "Requieren siempre inhumación en cementerio.",
+      "Se clasifican en el Grupo I."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-173",
+    "topic": "Sanidad Mortuoria",
+    "question": "El plazo de 5 años para considerar a un cuerpo como \"cadáver\" se cuenta desde:",
+    "options": [
+      "El momento del fallecimiento real.",
+      "La fecha y hora que figure en la inscripción del Registro Civil.",
+      "La emisión del certificado médico.",
+      "La entrada en el tanatorio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-174",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién es responsable de la inspección de los servicios funerarios de gestión directa municipal?",
+    "options": [
+      "El propio Ayuntamiento.",
+      "La Dirección General de Salud Pública y Participación.",
+      "La Delegación del Gobierno.",
+      "Una auditoría externa obligatoria."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-175",
+    "topic": "Sanidad Mortuoria",
+    "question": "La \"tanatoestética\" forma parte de la definición de:",
+    "options": [
+      "Embalsamamiento.",
+      "Tanatopraxia.",
+      "Conservación transitoria.",
+      "Tanatoplastia."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-176",
+    "topic": "Sanidad Mortuoria",
+    "question": "Un féretro especial debe disponer de:",
+    "options": [
+      "Ventanas de cristal.",
+      "Válvulas filtrantes para gases.",
+      "Revestimiento de terciopelo.",
+      "Ruedas para su transporte."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-177",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es la temperatura requerida para la congelación de un cadáver?",
+    "options": [
+      "0ºC o inferior.",
+      "-5ºC o inferior.",
+      "-18ºC o inferior.",
+      "-80ºC (ultracongelación)."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-178",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Se puede incinerar un cadáver del Grupo I?",
+    "options": [
+      "Es opcional.",
+      "Es obligatorio.",
+      "Está prohibido, debe ir a fosa común profunda.",
+      "Solo si hay autorización judicial expresa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-179",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿En qué lugar se deben realizar las operaciones de embalsamamiento?",
+    "options": [
+      "En cualquier sala del tanatorio.",
+      "En la sala de acondicionamiento y prácticas sanitarias del tanatorio.",
+      "En el domicilio del fallecido si se solicita.",
+      "En el cementerio al aire libre."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-180",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué documento es necesario para la incineración de un resto humano procedente de una amputación?",
+    "options": [
+      "Solo el DNI del interesado.",
+      "Certificado médico de la amputación y licencia correspondiente.",
+      "Denuncia policial.",
+      "Ninguno, no se regula la incineración de miembros."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-181",
+    "topic": "Sanidad Mortuoria",
+    "question": "La potestad sancionadora en el ámbito de sus competencias corresponde a:",
+    "options": [
+      "Solo a la Directora General de Salud Pública.",
+      "Solo a los Ayuntamientos.",
+      "A la Directora General de Salud Pública y a los Ayuntamientos.",
+      "Al Consejero de Salud exclusivamente."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-182",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los restos cadavéricos no identificados de un osario general pueden usarse para docencia:",
+    "options": [
+      "Previa autorización del Juez de Paz.",
+      "Sin ningún requisito adicional.",
+      "Está prohibido su uso si no están identificados.",
+      "Solo si han pasado 50 años."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-183",
+    "topic": "Sanidad Mortuoria",
+    "question": "La técnica de preservación adecuada al estado del cadáver la decide:",
+    "options": [
+      "La familia.",
+      "El funcionario del cementerio.",
+      "El profesional responsable de la práctica (médico o tanatopractor).",
+      "El comercial de la funeraria."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-184",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el destino final de los cadáveres que presentan riesgo radiactivo?",
+    "options": [
+      "Incineración inmediata.",
+      "Inhumación a 5 metros de profundidad.",
+      "El tratamiento especial que acuerde el organismo competente en seguridad nuclear .",
+      "Traslado al centro de residuos de El Cabril."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-185",
+    "topic": "Sanidad Mortuoria",
+    "question": "El Decreto 11/2018 entró en vigor:",
+    "options": [
+      "El mismo día de su publicación en el BOIB.",
+      "Al mes de su publicación.",
+      "A los tres meses de su publicación.",
+      "El 1 de enero de 2019. (Nota: El texto indica que fue aprobado el 27 de abril de 2018 y publicado el 28 de abril)."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-186",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los traslados de cadáveres del Grupo I requieren inspección de:",
+    "options": [
+      "El Ayuntamiento.",
+      "La Dirección General de Salud Pública y Participación.",
+      "La Guardia Civil.",
+      "No requieren inspección."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-187",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué se entiende por \"establecimiento funerario\"?",
+    "options": [
+      "El tanatorio exclusivamente.",
+      "El cementerio municipal.",
+      "El local de oficina, almacén o garaje de una entidad funeraria.",
+      "La tienda de flores del cementerio."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "SM-188",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Puede el Ayuntamiento delegar la gestión del cementerio?",
+    "options": [
+      "No, debe ser siempre gestión directa.",
+      "Sí, la ley atribuye a los municipios la regulación y gestión, que puede ser directa o indirecta .",
+      "Solo en otros Ayuntamientos.",
+      "Solo en la Iglesia Católica."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-189",
+    "topic": "Sanidad Mortuoria",
+    "question": "El informe previo para la construcción de cementerios emitido por Salud Pública es:",
+    "options": [
+      "Vinculante y preceptivo.",
+      "Opcional.",
+      "Solo para cementerios privados.",
+      "Informativo no vinculante."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "SM-190",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué técnica se usa para restablecer la forma de las estructuras de un cadáver?",
+    "options": [
+      "Tanatoestética.",
+      "Tanatoplastia.",
+      "Embalsamamiento.",
+      "Refrigeración."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-191",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué es un columbario?",
+    "options": [
+      "Una fosa común.",
+      "Una construcción para depositar urnas con cenizas.",
+      "El lugar donde se guardan las herramientas.",
+      "Una sala de autopsias."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-192",
+    "topic": "Sanidad Mortuoria",
+    "question": "Los cadáveres del Grupo II pueden destinarse a fines científicos si:",
+    "options": [
+      "El fallecido lo manifestó en su testamento vital.",
+      "Los familiares lo ceden y no hay oposición del difunto.",
+      "No son reclamados en un mes y no hay intervención judicial.",
+      "Todas las anteriores son correctas."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "SM-193",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Quién firma la autorización para realizar tanatopraxia en un cadáver bajo intervención judicial?",
+    "options": [
+      "El médico forense.",
+      "La autoridad judicial.",
+      "El Director del Tanatorio.",
+      "El Alcalde."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-194",
+    "topic": "Sanidad Mortuoria",
+    "question": "Un cadáver que no se va a refrigerar debe mantenerse a menos de 18ºC si pasan:",
+    "options": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "Nunca es obligatorio si el clima es frío."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-195",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Se puede inhumar a una madre y su recién nacido muerto en el mismo féretro?",
+    "options": [
+      "No, nunca.",
+      "Sí, es una de las excepciones permitidas.",
+      "Solo si el recién nacido tiene menos de 24 horas.",
+      "Solo en cementerios parroquiales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-196",
+    "topic": "Sanidad Mortuoria",
+    "question": "El féretro de recogida:",
+    "options": [
+      "Puede ser el féretro definitivo.",
+      "No será en ningún caso el féretro definitivo.",
+      "Debe ser de madera de roble.",
+      "Solo se usa para restos cadavéricos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-197",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es el objetivo principal del Decreto según su preámbulo?",
+    "options": [
+      "Recaudar más tasas municipales.",
+      "Modernizar la regulación y simplificar trámites garantizando la salud pública.",
+      "Prohibir los entierros religiosos.",
+      "Obligar a la incineración de todos los cadáveres."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-198",
+    "topic": "Sanidad Mortuoria",
+    "question": "El uso de la terminología en género masculino en el Decreto:",
+    "options": [
+      "Excluye a las mujeres.",
+      "Se refiere indistintamente a hombres y mujeres.",
+      "Es un error que debe subsanarse.",
+      "Solo se aplica a los médicos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-199",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Qué autoridad supervisa los reglamentos internos de los cementerios privados?",
+    "options": [
+      "El Obispado.",
+      "El Ayuntamiento.",
+      "El Ministerio de Justicia.",
+      "Ninguna, son privados."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "SM-200",
+    "topic": "Sanidad Mortuoria",
+    "question": "¿Cuál es la función del osario general?",
+    "options": [
+      "Enterrar cadáveres del Grupo I.",
+      "Recoger los restos cadavéricos (tras 5 años y pérdida de materia orgánica) .",
+      "Guardar las urnas de cenizas.",
+      "Realizar cremaciones colectivas."
+    ],
+    "answerIndex": 1
   }
 ]
+
+
 

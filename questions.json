@@ -142,8 +142,8 @@
     "Refrigeración ≤ 3 ºC y congelación ≤ -12 ºC"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-002",
   "topic": "Decreto 11/2018",
   "question": "¿Cuánto tiempo debe transcurrir como mínimo desde la certificación médica de defunción para poder someter un cadáver a congelación?",
@@ -154,8 +154,8 @@
     "48 horas"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-003",
   "topic": "Decreto 11/2018",
   "question": "¿Cuál es el plazo máximo durante el que un cadáver puede estar sometido a refrigeración?",
@@ -166,8 +166,8 @@
     "10 días"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-004",
   "topic": "Decreto 11/2018",
   "question": "Según el Decreto 11/2018, ¿cuánto tiempo como máximo puede transcurrir entre la extracción de un cadáver de una cámara de refrigeración o túmulo y su depósito en otra?",
@@ -178,8 +178,8 @@
     "6 horas"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-005",
   "topic": "Decreto 11/2018",
   "question": "¿Cuál es el plazo mínimo general antes de poder inhumar o incinerar un cadáver desde la defunción?",
@@ -190,8 +190,8 @@
     "48 horas"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-006",
   "topic": "Decreto 11/2018",
   "question": "¿En qué supuesto NO se aplica el plazo mínimo general de 24 horas para inhumación/incineración?",
@@ -202,8 +202,8 @@
     "Cuando el destino final sea cremación"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-007",
   "topic": "Decreto 11/2018",
   "question": "¿Qué documentos debe exigir el cementerio o crematorio antes de una inhumación (no judicial) según el Decreto 11/2018?",
@@ -214,8 +214,8 @@
     "Solo certificado médico de defunción"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-008",
   "topic": "Decreto 11/2018",
   "question": "Según el Decreto 11/2018, ¿qué destino final se establece obligatoriamente para los cadáveres del Grupo I?",
@@ -226,8 +226,8 @@
     "Donación a la ciencia"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-009",
   "topic": "Decreto 11/2018",
   "question": "¿Qué información debe constar en el exterior de la urna donde se depositen las cenizas resultantes de la incineración?",
@@ -238,8 +238,8 @@
     "Solo el nombre y apellidos"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-010",
   "topic": "Decreto 11/2018",
   "question": "¿Cómo puede realizarse el traslado de las urnas con cenizas según el Decreto 11/2018?",
@@ -250,8 +250,8 @@
     "Únicamente al cementerio municipal"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-011",
   "topic": "Decreto 11/2018",
   "question": "¿Cuál es el plazo mínimo para poder exhumar un cadáver o restos humanos desde la inhumación (salvo intervención judicial)?",
@@ -262,8 +262,8 @@
     "5 años"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-012",
   "topic": "Decreto 11/2018",
   "question": "¿En qué periodo del año, con carácter general, NO puede realizarse ninguna exhumación (salvo excepciones previstas)?",
@@ -274,8 +274,8 @@
     "Del 1 de octubre al 31 de diciembre"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-013",
   "topic": "Decreto 11/2018",
   "question": "Según el Decreto 11/2018, ¿qué características tiene el 'féretro especial'?",
@@ -286,8 +286,8 @@
     "Saco impermeable degradable y de un solo uso"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-D11-014",
   "topic": "Decreto 11/2018",
   "question": "¿Qué tipo de recipiente funerario se define como 'impermeable, degradable y de un solo uso'?",
@@ -298,8 +298,8 @@
     "Féretro de incineraciones"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-D11-015",
   "topic": "Decreto 11/2018",
   "question": "Para inhumación, ¿de qué material deben ser los féretros y el material que se inhume junto con el cadáver?",
@@ -310,8 +310,8 @@
     "Cualquier material mientras esté sellado"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-EST-001",
   "topic": "Estatutos EFMSA",
   "question": "Según los Estatutos, ¿cuál es el objeto social de EFMSA?",
@@ -322,8 +322,8 @@
     "La gestión judicial de cadáveres"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-002",
   "topic": "Estatutos EFMSA",
   "question": "¿Cuál es la duración de EFMSA según sus Estatutos?",
@@ -334,8 +334,8 @@
     "Depende de acuerdo de la Junta General cada año"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-EST-003",
   "topic": "Estatutos EFMSA",
   "question": "¿Dónde se fija el domicilio social de EFMSA según sus Estatutos?",
@@ -346,8 +346,8 @@
     "Marratxí, Polígono Son Castelló"
   ],
   "answerIndex": 0
-},
-{
+  },
+  {
   "id": "EXTRA-EST-004",
   "topic": "Estatutos EFMSA",
   "question": "Según los Estatutos, ¿cuál es el capital social de EFMSA?",
@@ -358,8 +358,8 @@
     "3.000.000,00 €"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-005",
   "topic": "Estatutos EFMSA",
   "question": "¿En cuántas acciones se divide el capital social según los Estatutos?",
@@ -370,8 +370,8 @@
     "9 acciones"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-EST-006",
   "topic": "Estatutos EFMSA",
   "question": "¿Cuál es el número máximo de miembros del Consejo de Administración según los Estatutos?",
@@ -382,8 +382,8 @@
     "11"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-EST-007",
   "topic": "Estatutos EFMSA",
   "question": "¿Cuál es la duración máxima del cargo de consejero según los Estatutos?",
@@ -394,8 +394,8 @@
     "8 años"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-EST-008",
   "topic": "Estatutos EFMSA",
   "question": "¿Quién puede convocar sesiones extraordinarias del Consejo de Administración?",
@@ -406,8 +406,8 @@
     "Solo el Vicepresidente, a iniciativa propia"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-009",
   "topic": "Estatutos EFMSA",
   "question": "¿Cuál es la antelación mínima de convocatoria por escrito para reuniones del Consejo (ordinarias) según los Estatutos?",
@@ -418,8 +418,8 @@
     "10 días"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-010",
   "topic": "Estatutos EFMSA",
   "question": "En sesiones extraordinarias urgentes, ¿qué antelación mínima es suficiente para la convocatoria según los Estatutos?",
@@ -430,8 +430,8 @@
     "2 días"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-011",
   "topic": "Estatutos EFMSA",
   "question": "¿Cuándo queda válidamente constituido el Consejo de Administración según los Estatutos?",
@@ -442,8 +442,8 @@
     "Cuando concurra el Presidente y el Secretario"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-012",
   "topic": "Estatutos EFMSA",
   "question": "Según los Estatutos, ¿quién asiste con voz y sin voto a las reuniones del Consejo de Administración?",
@@ -454,8 +454,8 @@
     "Los representantes sindicales con voto"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-EST-013",
   "topic": "Estatutos EFMSA",
   "question": "Según los Estatutos, ¿cuándo comienza y termina el ejercicio social de EFMSA?",
@@ -466,8 +466,8 @@
     "Del 1 de junio al 31 de mayo"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-001",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, ¿qué es un tanatorio a efectos de dicha norma?",
@@ -478,8 +478,8 @@
     "Un cementerio con sala de ceremonias"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-002",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, ¿qué se exige para instalar y realizar la actividad de servicios funerarios en Palma?",
@@ -490,8 +490,8 @@
     "Permiso judicial"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-003",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, ¿cuál es la experiencia mínima exigida a las empresas para prestar servicios funerarios en Palma?",
@@ -502,8 +502,8 @@
     "10 años"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-004",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, ¿qué capital mínimo debe acreditarse (en pesetas) para prestar servicios funerarios en Palma?",
@@ -514,8 +514,8 @@
     "50.000.000 de pesetas"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-005",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, las dependencias de atención al público para contratación de servicios estarán abiertas:",
@@ -526,8 +526,8 @@
     "Solo cuando haya servicio"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-006",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, ¿qué capacidad mínima debe tener el almacén de féretros?",
@@ -538,8 +538,8 @@
     "900 unidades"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-ORD-007",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, el local para la guarda de vehículos funerarios deberá tener paredes laterales impermeabilizadas hasta una altura de:",
@@ -550,8 +550,8 @@
     "3 metros"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-TAR-001",
   "topic": "Tarifa privada EFMSA 2025",
   "question": "Según la Tarifa privada EFMSA 2025, ¿cuál es el precio del 'Velatorio - 1 turno o fracción'?",
@@ -562,8 +562,8 @@
     "463,50 €"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-TAR-002",
   "topic": "Tarifa privada EFMSA 2025",
   "question": "Según la Tarifa privada EFMSA 2025, ¿cuál es el precio de la 'Prestación básica del difunto'?",
@@ -574,8 +574,8 @@
     "97,95 €"
   ],
   "answerIndex": 0
-},
-{
+  },
+  {
   "id": "EXTRA-TAR-003",
   "topic": "Tarifa privada EFMSA 2025",
   "question": "Según la Tarifa privada EFMSA 2025, ¿cuál es el precio de 'Recogida cadáver'?",
@@ -586,8 +586,8 @@
     "153,21 €"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "EXTRA-TAR-004",
   "topic": "Tarifa privada EFMSA 2025",
   "question": "Según la Tarifa privada EFMSA 2025, ¿cuál es el precio de 'Recogida judicial (Partido Judicial de Palma)'?",
@@ -598,8 +598,8 @@
     "176,24 €"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "EXTRA-TAR-005",
   "topic": "Tarifa privada EFMSA 2025",
   "question": "Según la Tarifa privada EFMSA 2025, ¿cuál es el precio de 'Tanatoestética'?",
@@ -610,8 +610,8 @@
     "110,38 €"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "PDF-D11-016",
   "topic": "Decreto 11/2018",
   "question": "¿Qué se entiende por sanidad mortuoria según el Decreto 11/2018?",
@@ -622,8 +622,8 @@
     "La organización de ceremonias funerarias"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-D11-017",
   "topic": "Decreto 11/2018",
   "question": "¿Quién ejerce la función inspectora en materia de sanidad mortuoria?",
@@ -634,8 +634,8 @@
     "Las empresas funerarias autorizadas"
   ],
   "answerIndex": 1
-},
-{
+  },
+  { 
   "id": "PDF-D11-018",
   "topic": "Decreto 11/2018",
   "question": "¿Qué tipo de cadáveres pueden ser sometidos a técnicas de tanatopraxia?",
@@ -646,8 +646,8 @@
     "Ningún cadáver puede ser sometido a tanatopraxia"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "PDF-D11-019",
   "topic": "Decreto 11/2018",
   "question": "¿Qué técnica está permitida para los cadáveres del Grupo I?",
@@ -658,8 +658,8 @@
     "Conservación química"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "PDF-D11-020",
   "topic": "Decreto 11/2018",
   "question": "¿Qué destino pueden tener los restos humanos una vez transcurrido el periodo legal desde la inhumación?",
@@ -670,8 +670,8 @@
     "Donación obligatoria a la ciencia"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "PDF-EST-014",
   "topic": "Estatutos EFMSA",
   "question": "¿Qué naturaleza jurídica tiene la Empresa Funeraria Municipal, S.A.?",
@@ -682,8 +682,8 @@
     "Organismo autónomo municipal"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "PDF-EST-015",
   "topic": "Estatutos EFMSA",
   "question": "¿Bajo qué normativa se rige EFMSA además de sus Estatutos?",
@@ -694,8 +694,8 @@
     "Por el Código Civil únicamente"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-EST-016",
   "topic": "Estatutos EFMSA",
   "question": "¿Quién ostenta la presidencia del Consejo de Administración de EFMSA?",
@@ -706,8 +706,8 @@
     "El Interventor municipal"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-EST-017",
   "topic": "Estatutos EFMSA",
   "question": "¿Con qué mayoría se adoptan los acuerdos del Consejo de Administración?",
@@ -718,8 +718,8 @@
     "Dos tercios de los miembros"
   ],
   "answerIndex": 0
-},
-{
+  },
+  {
   "id": "PDF-REG-001",
   "topic": "Reglamento Servicios Mortuorios",
   "question": "¿Cuál es el objeto del Reglamento de Prestación de los Servicios Mortuorios?",
@@ -730,8 +730,8 @@
     "Regular la sanidad mortuoria autonómica"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-REG-002",
   "topic": "Reglamento Servicios Mortuorios",
   "question": "¿Quién es el titular de los cementerios municipales de Palma?",
@@ -742,8 +742,8 @@
     "Las parroquias locales"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {  
   "id": "PDF-REG-003",
   "topic": "Reglamento Servicios Mortuorios",
   "question": "¿Qué carácter tienen los derechos funerarios otorgados sobre unidades de enterramiento?",
@@ -754,8 +754,8 @@
     "Derechos civiles plenos"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-ORD-008",
   "topic": "Ordenanza servicios funerarios",
   "question": "¿Qué administración es competente para autorizar la apertura de tanatorios en Palma?",
@@ -766,8 +766,8 @@
     "EFMSA"
   ],
   "answerIndex": 2
-},
-{
+  },
+  {
   "id": "PDF-ORD-009",
   "topic": "Ordenanza servicios funerarios",
   "question": "Según la Ordenanza, ¿qué obligación tienen las empresas funerarias respecto a la información al público?",
@@ -778,8 +778,8 @@
     "No existe obligación específica"
   ],
   "answerIndex": 1
-},
-{
+ },
+ {
   "id": "PDF-TAR-PUB-001",
   "topic": "Tarifa pública EFMSA",
   "question": "¿Qué tipo de servicios se incluyen principalmente en la tarifa pública de EFMSA?",
@@ -790,8 +790,8 @@
     "Servicios de floristería"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-TAR-PUB-002",
   "topic": "Tarifa pública EFMSA",
   "question": "¿A qué corresponde la tarifa de mantenimiento de unidades de enterramiento?",
@@ -802,8 +802,8 @@
     "Al traslado de restos"
   ],
   "answerIndex": 1
-},
-{
+  },
+  {
   "id": "PDF-TAR-PRIV-006",
   "topic": "Tarifa privada EFMSA 2025",
   "question": "¿Qué tipo de IVA se aplica a los precios indicados en la Tarifa privada EFMSA 2025?",
@@ -814,8 +814,8 @@
     "IVA superreducido"
   ],
   "answerIndex": 2
-}
-{
+  },
+  {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "Segun el articulo 1, ¿Cual es el objeto principal del Dectro 11/2018?",
@@ -826,8 +826,8 @@
     "La regulacion de las practicas de trasplantes de organos y tejidos"
   ],
   "answerIndex": 2
-}
-{
+ },
+ {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "¿Qué comprende la sanidad mortuoria como integrante de la actividad de la Administracion pública en materia de salud?",
@@ -838,8 +838,8 @@
     "La gestion administrativa del Registro Civil en materia de definiciones"
   ],
   "answerIndex": 2
-}
-{
+ },
+ {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "De aceurdo con el articulo 2 ¿A que organos se atribuyen las facultades administrativas en materia de sanidad mortuoria en las Illes Balears?",
@@ -850,8 +850,8 @@
     "Exclusivamente a la Consejería de Salud"
   ],
   "answerIndex": 2
-}
-{
+ },
+ {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "¿Cuál de las sguientes es una funcion especifica de la Direccion Genereal de Salud Publica y Participación?",
@@ -862,8 +862,8 @@
     "La organizacion y administracion de los cementerios de titularidad municipal"
   ],
   "answerIndex": 2
-}
-{
+ },
+ {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "En situaciones epidemiologicas, ¿Quién tiene la competencia para ordenar el destino final de un cadaver?",
@@ -874,8 +874,8 @@
     "EL juez de Guardia"
   ],
   "answerIndex":2 
-}
-{
+ },
+ {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "¿Qué funcion corresponde a los Ayuntamientos segun el articulo 2.3?",
@@ -886,8 +886,8 @@
     "LA inspeccion de cadaveres en exposiciones publicas"
   ],
   "answerIndex": 2
-}
-{
+ },
+ {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "Según las definiciones del Articulo 3, ¿qué se entiende por 'cadáver'?",
@@ -898,8 +898,8 @@
     "El cuerpo humano desde el fallecimiento hasta su inhumacion"
   ],
   "answerIndex": 3
-}
-{
+  },
+  {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "¿Desde que momento se computa el plazo para considerar a un cuerpo como 'cadaver'?",
@@ -910,8 +910,8 @@
     "Desde la llegada al tanatorio"
   ],
   "answerIndex": 2
-}
-{
+  },
+  {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "¿Qué define el Decreto como 'Restos cadavericos'?",
@@ -922,8 +922,8 @@
     "Las cenizas resultantes de la incineracion"
   ],
   "answerIndex": 2
-}
-{
+  },
+  {
   "id": "PDF-USO",
   "topic": "Decreto 11/2018",
   "question": "¿Cuál es la definicion de 'Cenizas' según la norma?",
@@ -934,6 +934,6 @@
     "El producto de la descomposicion natural en fosa septica"
   ],
   "answerIndex": 2
-}
+  },
 ]
 

@@ -3460,10 +3460,10 @@
     "topic": "Estatutos EFM",
     "question": "¿Cuál es el valor nominal de cada acción según los estatutos actuales?",
     "options": [
-      "1.000,00 €.",
-      "3.847,50940487 €.",
-      "3.943,69 €.",
-      "4.000,00 €."
+      "150.052,28 €.",
+      "350.052,28€.",
+      "155.300,00 €.",
+      "150.052,00 €."
     ],
     "answerIndex": 1
   },

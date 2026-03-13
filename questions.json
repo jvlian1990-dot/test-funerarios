@@ -717,7 +717,7 @@
     "Unanimidad",
     "Dos tercios de los miembros"
   ],
-  "answerIndex": 0
+  "answerIndex": 1
   },
   {
   "id": "PDF-REG-001",
@@ -3334,8 +3334,2406 @@
       "Realizar cremaciones colectivas."
     ],
     "answerIndex": 1
+  },
+  {
+    "id": "EFM-001",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 1º, ¿por qué legislación se rige la sociedad en primer lugar?",
+    "options": [
+      "Exclusivamente por la Ley de Sociedades de Capital.",
+      "Por los presentes estatutos.",
+      "Por el Reglamento de Servicios de las Corporaciones Locales.",
+      "Por la Ley de Contratos del Sector Público."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-002",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la denominación oficial de la sociedad según los estatutos?",
+    "options": [
+      "Servicios Funerarios de Palma, S.A.",
+      "Empresa Funeraria Municipal, S.A.",
+      "Funeraria de Palma Municipal, S.A.",
+      "Gestión Mortuoria de Palma, S.A."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-003",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué normativa rige íntegramente a la sociedad, salvo en materias específicas como presupuestaria o contratación?",
+    "options": [
+      "El ordenamiento jurídico público.",
+      "El ordenamiento jurídico privado.",
+      "La normativa de Función Pública.",
+      "El Derecho Administrativo exclusivamente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-004",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 1º, ¿en qué materia NO se rige la sociedad por el ordenamiento jurídico privado?",
+    "options": [
+      "Régimen de personal.",
+      "Control de eficacia.",
+      "Arrendamiento de instalaciones.",
+      "Responsabilidad civil."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-005",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué constituye el objeto social de la EFM según el artículo 2º?",
+    "options": [
+      "La gestión de todos los cementerios de las Illes Balears.",
+      "La prestación de los Servicios Funerarios y de Cementerios encomendados por el Ayuntamiento de Palma.",
+      "La fabricación de féretros y urnas a nivel nacional.",
+      "Únicamente la gestión del Tanatorio de Palma."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-006",
+    "topic": "Estatutos EFM",
+    "question": "¿Incluye el objeto social la construcción y mantenimiento de edificios destinados a servicios mortuorios?",
+    "options": [
+      "No, eso corresponde al Departamento de Urbanismo del Ayuntamiento.",
+      "Sí, expresamente según el artículo 2º.",
+      "Solo si son edificios de titularidad privada.",
+      "Solo en el caso de hornos crematorios."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-007",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la duración de la sociedad según el artículo 3º?",
+    "options": [
+      "50 años prorrogables.",
+      "99 años.",
+      "Indefinida.",
+      "La que determine el Pleno cada legislatura."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-008",
+    "topic": "Estatutos EFM",
+    "question": "¿Dónde queda fijado el domicilio social de la empresa?",
+    "options": [
+      "Plaza de Cort, n.º 1, Palma.",
+      "Camino de Jesús, n.º 2, Palma.",
+      "Vía Roma, n.º 3, Palma.",
+      "Polígono de Son Castelló, Palma."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-009",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 5º, ¿a cuánto asciende el capital social de la entidad?",
+    "options": [
+      "1.000.000,00 €.",
+      "3.943.697,14 €.",
+      "5.000.000,00 €.",
+      "3.847.509,40 €."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-010",
+    "topic": "Estatutos EFM",
+    "question": "¿En cuántas acciones está distribuido el capital social?",
+    "options": [
+      "1.000 acciones.",
+      "1.025 acciones.",
+      "2.000 acciones.",
+      "500 acciones."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-011",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es el valor nominal de cada acción según los estatutos actuales?",
+    "options": [
+      "1.000,00 €.",
+      "3.847,50940487 €.",
+      "3.943,69 €.",
+      "4.000,00 €."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-012",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo deben ser representadas las acciones según el artículo 6º?",
+    "options": [
+      "Mediante anotaciones en cuenta.",
+      "Mediante títulos al portador.",
+      "Mediante títulos nominativos.",
+      "Mediante documento privado no numerado."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-013",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién debe firmar los títulos de las acciones según el artículo 6º?",
+    "options": [
+      "El Alcalde de Palma necesariamente.",
+      "Un administrador.",
+      "El Secretario del Ayuntamiento.",
+      "El Interventor General."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-014",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién es el titular exclusivo del capital social de la empresa?",
+    "options": [
+      "La Comunidad Autónoma de las Illes Balears.",
+      "El Excmo. Ayuntamiento de Palma de Mallorca.",
+      "Un consorcio de empresas funerarias privadas.",
+      "El Estado español."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-015",
+    "topic": "Estatutos EFM",
+    "question": "¿Pueden transmitirse las acciones de la sociedad a terceros?",
+    "options": [
+      "Sí, con autorización del Consejo de Administración.",
+      "No, según el artículo 6º.",
+      "Sí, siempre que se vendan a otras entidades públicas.",
+      "Solo en caso de quiebra."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-016",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué órgano tiene la competencia para aumentar o disminuir el capital social?",
+    "options": [
+      "El Consejo de Administración.",
+      "La Junta General.",
+      "El Gerente.",
+      "El Alcalde mediante decreto."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-017",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 8º, ¿cuáles son los órganos de gobierno y administración de la sociedad?",
+    "options": [
+      "La Junta General, el Consejo de Administración y la Dirección o Gerencia.",
+      "El Pleno, el Alcalde y el Consejo Rector.",
+      "La Junta de Gobierno Local y el Gerente.",
+      "El Consejo de Administración y los Auditores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-018",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué órgano se define como el \"órgano soberano\" de la sociedad?",
+    "options": [
+      "El Consejo de Administración.",
+      "El Pleno del Excmo. Ayuntamiento de Palma constituido en Junta General.",
+      "El Alcalde-Presidente.",
+      "La Mesa de Contratación."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-019",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál de estas funciones corresponde a la Junta General según el artículo 9º?",
+    "options": [
+      "Nombrar y separar libremente a los componentes del Consejo de Administración.",
+      "Dirigir el personal administrativo de la oficina.",
+      "Firmar los contratos de suministros de menos de 3.000 €.",
+      "Decidir el turno de vacaciones de los operarios."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-020",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién designa al Presidente y Vicepresidente del Consejo de Administración?",
+    "options": [
+      "El propio Consejo de Administración en su primera sesión.",
+      "La Junta General.",
+      "El Gerente de la empresa.",
+      "Los representantes sindicales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-021",
+    "topic": "Estatutos EFM",
+    "question": "¿A qué órgano corresponde aprobar las cuentas de cada ejercicio social?",
+    "options": [
+      "Al Interventor del Ayuntamiento.",
+      "A la Junta General.",
+      "Al Gerente.",
+      "Al Banco de España."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-022",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 10º, ¿por qué normas se rige la convocatoria de la Junta General?",
+    "options": [
+      "Por las normas del Pleno municipal del Excmo. Ayuntamiento de Palma.",
+      "Por el Código de Comercio exclusivamente.",
+      "Por decisión discrecional del Presidente del Consejo.",
+      "Por la Ley de Procedimiento Administrativo Común."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-023",
+    "topic": "Estatutos EFM",
+    "question": "¿En qué plazo debe la Junta General adoptar los acuerdos relativos a la aprobación de cuentas del ejercicio anterior?",
+    "options": [
+      "Dentro de los tres primeros meses del año.",
+      "Dentro de los seis primeros meses de cada ejercicio.",
+      "Antes del 31 de diciembre.",
+      "En el mes de septiembre únicamente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-024",
+    "topic": "Estatutos EFM",
+    "question": "¿Dónde se deben consignar los acuerdos adoptados por la Junta General?",
+    "options": [
+      "En el tablón de anuncios del Ayuntamiento.",
+      "En un libro de actas específico.",
+      "En el Boletín Oficial de las Illes Balears diariamente.",
+      "En la memoria anual de sostenibilidad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-025",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién corresponde la emisión de certificaciones de las actas de la Junta General?",
+    "options": [
+      "Al Secretario del Consejo de Administración.",
+      "Al Secretario del Pleno.",
+      "Al Gerente.",
+      "Al Vicepresidente del Consejo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-026",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 12º, ¿a quién corresponde la formalización en instrumento público de los acuerdos sociales?",
+    "options": [
+      "A cualquier empleado de la sociedad.",
+      "A las personas que tengan facultades para certificarlos.",
+      "Exclusivamente al Notario del Ayuntamiento.",
+      "Al Alcalde personalmente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-027",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es el número máximo de miembros que puede tener el Consejo de Administración?",
+    "options": [
+      "Siete.",
+      "Nueve.",
+      "Once.",
+      "Quince."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-028",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién propone al Pleno el nombramiento de los miembros del Consejo de Administración?",
+    "options": [
+      "Los partidos de la oposición.",
+      "El Consejo de Administración de la EFM.",
+      "El Gerente.",
+      "Una comisión de selección externa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-029",
+    "topic": "Estatutos EFM",
+    "question": "¿Entre quiénes deben ser nombrados los consejeros según el artículo 13º?",
+    "options": [
+      "Únicamente entre Regidores del Ayuntamiento.",
+      "Entre Regidores, ejecutivos, técnicos, expertos de reconocida competencia y representantes sociales/empresariales/sindicales.",
+      "Solo entre ciudadanos empadronados en Palma.",
+      "Entre el personal laboral de la propia funeraria."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-030",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué representación mínima se garantiza en el Consejo para los Grupos Políticos del Consistorio?",
+    "options": [
+      "2 representantes por grupo.",
+      "1 representante como mínimo de cada uno de los Grupos Políticos.",
+      "Solo tienen representación los grupos del equipo de gobierno.",
+      "No se garantiza representación por grupos políticos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-031",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué sucede si un consejero pierde la condición que determinó su nombramiento?",
+    "options": [
+      "Continúa hasta el final de la legislatura.",
+      "Cesa automáticamente.",
+      "Debe ser ratificado por el Alcalde.",
+      "Pasa a ser consejero honorario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-032",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la duración máxima del cargo de consejero según el artículo 14º?",
+    "options": [
+      "Dos años.",
+      "Cuatro años.",
+      "Cinco años.",
+      "Indefinida mientras sea Regidor."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-033",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién convoca las reuniones ordinarias del Consejo de Administración?",
+    "options": [
+      "El Gerente.",
+      "El Presidente (o Vicepresidente por sustitución).",
+      "El Secretario del Ayuntamiento.",
+      "La mayoría simple de los trabajadores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-034",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo se pueden convocar sesiones extraordinarias del Consejo a instancia de los consejeros?",
+    "options": [
+      "Cuando lo solicite al menos la mitad de los consejeros.",
+      "Cuando lo soliciten al menos una tercera parte de los consejeros.",
+      "Cuando lo solicite un solo consejero.",
+      "No se pueden convocar a instancia de los consejeros, solo del Presidente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-035",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la antelación mínima para la convocatoria de una sesión ordinaria del Consejo?",
+    "options": [
+      "24 horas.",
+      "Dos días.",
+      "Cinco días.",
+      "Diez días."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-036",
+    "topic": "Estatutos EFM",
+    "question": "En caso de sesiones extraordinarias y urgentes, ¿con qué antelación mínima se puede hacer la convocatoria?",
+    "options": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "No hay plazo mínimo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-037",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo se entiende válida una reunión del Consejo sin previa convocatoria?",
+    "options": [
+      "Nunca, es nula de pleno derecho.",
+      "Cuando estén reunidos la mitad más uno y haya orden del día.",
+      "Cuando esté presente la totalidad de los consejeros y acuerden por unanimidad la celebración.",
+      "Solo si asiste el Alcalde."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-038",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo queda válidamente constituido el Consejo de Administración?",
+    "options": [
+      "Con la asistencia de 3 miembros.",
+      "Cuando concurran a la reunión la mitad más uno de sus componentes.",
+      "Solo si asisten todos los consejeros.",
+      "Con la presencia obligatoria del Gerente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-039",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo se adoptan, como regla general, los acuerdos de naturaleza ordinaria en el Consejo?",
+    "options": [
+      "Por mayoría absoluta de los consejeros concurrentes.",
+      "Por unanimidad.",
+      "Por mayoría de dos tercios de los presentes.",
+      "Por sorteo en caso de duda."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-040",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién decide en caso de empate en una votación del Consejo?",
+    "options": [
+      "El consejero de mayor edad.",
+      "El voto del presidente en segunda votación.",
+      "El Gerente.",
+      "Se repite la votación en la siguiente sesión."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-041",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría se exige para la delegación permanente de facultades en consejeros delegados?",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría absoluta.",
+      "Voto favorable de las dos terceras partes de los componentes del Consejo.",
+      "Unanimidad de los asistentes."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-042",
+    "topic": "Estatutos EFM",
+    "question": "¿Son válidos los acuerdos adoptados sobre asuntos no incluidos en el orden del día?",
+    "options": [
+      "Sí, siempre.",
+      "No, serán nulos, salvo que se declare la urgencia con voto favorable de la mayoría de miembros.",
+      "Solo si se trata de temas de personal.",
+      "Sí, si lo decide el Secretario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-043",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo se realizan normalmente las votaciones en el Consejo?",
+    "options": [
+      "Por escrito siempre.",
+      "A mano alzada.",
+      "Mediante voto electrónico.",
+      "Por aclamación."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-044",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién firma las actas del Consejo de Administración?",
+    "options": [
+      "El Gerente y el Presidente.",
+      "El Presidente y el Secretario.",
+      "Todos los asistentes a la reunión.",
+      "Solo el Secretario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-045",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el cargo de Secretario del Consejo ser desempeñado por una persona que no sea consejero?",
+    "options": [
+      "No, debe ser obligatoriamente un vocal del Consejo.",
+      "Sí, puede no ser consejero.",
+      "Solo si es funcionario del Ayuntamiento.",
+      "Solo si es el Gerente de la empresa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-046",
+    "topic": "Estatutos EFM",
+    "question": "¿Tiene voto el Secretario del Consejo si no es consejero?",
+    "options": [
+      "Sí, voto de calidad.",
+      "Tiene voz pero no voto.",
+      "No tiene voz ni voto.",
+      "Tiene voto pero no voz."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-047",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién expide las certificaciones de las actas del Consejo de Administración?",
+    "options": [
+      "El Presidente.",
+      "El Secretario del Consejo.",
+      "El Interventor.",
+      "El Notario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-048",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué requisito se necesita para la certificación de actas del Consejo según el artículo 16º?",
+    "options": [
+      "El visto bueno del Presidente o Vicepresidente.",
+      "La firma del Alcalde.",
+      "El sello del Registro Mercantil.",
+      "La aprobación previa del Pleno."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-049",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 17º, ¿qué facultades corresponden al Consejo de Administración?",
+    "options": [
+      "Solo la administración ordinaria de menos de 10.000 €.",
+      "La representación de la sociedad en juicio y fuera de él y facultades de contratación en general.",
+      "Únicamente la propuesta de despido del Gerente.",
+      "Ninguna, todas están reservadas a la Junta General."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-050",
+    "topic": "Estatutos EFM",
+    "question": "¿Tiene el Consejo facultades para nombrar y despedir al personal de la sociedad?",
+    "options": [
+      "No, es competencia de la Junta General.",
+      "Sí, según el artículo 17º apartado h).",
+      "Solo puede proponerlo al Ayuntamiento.",
+      "Solo para el personal directivo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-051",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué facultad tiene el Consejo respecto a la representación judicial de la sociedad?",
+    "options": [
+      "Solo puede representar en asuntos civiles.",
+      "Representar en todos los asuntos administrativos, judiciales, civiles, mercantiles y penales.",
+      "Necesita permiso previo del Alcalde para cada juicio.",
+      "No tiene facultades judiciales, solo extrajudiciales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-052",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración otorgar poderes a procuradores?",
+    "options": [
+      "No, es una facultad reservada a la Junta General.",
+      "Sí, con la facultad expresa de absolver posiciones en confesión judicial.",
+      "Solo en procesos laborales.",
+      "Solo si el procurador es funcionario municipal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-053",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 17º d), ¿quién establece las normas de gobierno y el régimen de administración de la sociedad?",
+    "options": [
+      "El Ayuntamiento de Palma mediante decreto.",
+      "El Consejo de Administración.",
+      "El Gerente de forma autónoma.",
+      "El Comité de Empresa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-054",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué límite tiene el Consejo al celebrar contratos y realizar actos de disposición?",
+    "options": [
+      "Ninguno, tiene libertad absoluta.",
+      "Las competencias atribuidas exclusivamente a otros órganos sociales.",
+      "Un límite económico de 50.000 € por contrato.",
+      "Debe contratar siempre mediante subasta pública."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-055",
+    "topic": "Estatutos EFM",
+    "question": "Respecto a las hipotecas, ¿puede el Consejo constituirlas sobre bienes de la sociedad?",
+    "options": [
+      "Sí, así como otros gravámenes o derechos reales.",
+      "No, requiere acuerdo de la Junta General en todo caso.",
+      "Solo sobre bienes muebles, no sobre inmuebles.",
+      "Solo si la hipoteca es con un banco público."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-056",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién puede llevar la firma y actuar en nombre de la sociedad en operaciones bancarias?",
+    "options": [
+      "El Interventor municipal.",
+      "El Consejo de Administración.",
+      "Únicamente el Gerente.",
+      "El Tesorero del Ayuntamiento."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-057",
+    "topic": "Estatutos EFM",
+    "question": "¿Incluye la facultad bancaria del Consejo el avalar letras de cambio?",
+    "options": [
+      "Sí, como librador, aceptante, avalista, endosante o tenedor.",
+      "No, la sociedad tiene prohibido ser avalista.",
+      "Solo si el importe es inferior al capital social.",
+      "Solo con autorización de la Junta General."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-058",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración tomar dinero a préstamo?",
+    "options": [
+      "No, es competencia exclusiva de la Junta General.",
+      "Sí, estipulando libremente plazos, intereses y condiciones.",
+      "Solo si el préstamo es sin intereses.",
+      "Solo si el Ayuntamiento actúa como avalista."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-059",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la limitación del Consejo para delegar sus facultades y atribuciones?",
+    "options": [
+      "No puede delegar nada, debe actuar siempre en pleno.",
+      "Puede delegar todas, salvo las que por disposición legal o estatutaria sean indelegables.",
+      "Solo puede delegar en el Presidente.",
+      "Solo puede delegar facultades de administración ordinaria."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-060",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién propone a la Junta General la creación o supresión de sucursales?",
+    "options": [
+      "El Gerente.",
+      "El Consejo de Administración.",
+      "El Alcalde.",
+      "El Concejal de Hacienda."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-061",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién corresponde proponer a la Junta General el cambio de domicilio social?",
+    "options": [
+      "Al Consejo de Administración.",
+      "Al Secretario de la sociedad.",
+      "Al Registro Mercantil.",
+      "A la mayoría absoluta del Pleno."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-062",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo se entienden las facultades del Consejo de Administración enumeradas en el artículo 17º?",
+    "options": [
+      "Tienen carácter limitativo.",
+      "Tienen carácter meramente enunciativo.",
+      "Son facultades compartidas con el Gerente.",
+      "Son facultades provisionales hasta la reforma estatutaria."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-063",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 18º, ¿en quién puede delegar el Consejo sus facultades representativas o decisorias?",
+    "options": [
+      "Solo en el Presidente.",
+      "En uno o más consejeros y/o en el Gerente o cualquier otra persona que estime oportuno.",
+      "Únicamente en funcionarios del Ayuntamiento.",
+      "En ningún caso en personas ajenas al Consejo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-064",
+    "topic": "Estatutos EFM",
+    "question": "Si se delegan facultades en varias personas, ¿quién determina si actúan conjunta o separadamente?",
+    "options": [
+      "El propio Consejo de Administración.",
+      "El Gerente.",
+      "La normativa de Régimen Local.",
+      "El Notario en la escritura de poder."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-065",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién integra la Dirección o Gerencia según el artículo 19º?",
+    "options": [
+      "El Consejo de Administración en su conjunto.",
+      "El Gerente o Director General.",
+      "Los jefes de departamento.",
+      "El Presidente y el Secretario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-066",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué consideración legal tiene el titular de la Dirección o Gerencia?",
+    "options": [
+      "Funcionario de carrera.",
+      "Alto cargo.",
+      "Personal eventual de confianza.",
+      "Trabajador autónomo dependiente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-067",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién nombra al Gerente de la EFM?",
+    "options": [
+      "La Junta General a propuesta del Alcalde.",
+      "El Consejo de Administración.",
+      "El Pleno del Ayuntamiento.",
+      "El Ministerio de Administraciones Públicas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-068",
+    "topic": "Estatutos EFM",
+    "question": "Si el Gerente es nombrado entre profesionales del sector privado, ¿qué requisito de experiencia debe cumplir?",
+    "options": [
+      "Más de 3 años de ejercicio profesional.",
+      "Más de 5 años de ejercicio profesional.",
+      "10 años en el sector funerario exclusivamente.",
+      "No se exige experiencia previa si tiene título superior."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-069",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué titulación debe tener el Gerente si proviene de las Administraciones Públicas?",
+    "options": [
+      "Titular medio.",
+      "Titular superior.",
+      "Basta con ser funcionario del grupo C.",
+      "No se especifica titulación para funcionarios."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-070",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién otorga los poderes o facultades al Gerente?",
+    "options": [
+      "La Junta General.",
+      "El Consejo de Administración.",
+      "El Alcalde.",
+      "El Secretario del Pleno."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-071",
+    "topic": "Estatutos EFM",
+    "question": "¿Tiene el Interventor del Ayuntamiento derecho a asistir al Consejo de Administración?",
+    "options": [
+      "No, tiene prohibida la entrada para garantizar la independencia.",
+      "Sí, asistirá con voz y sin voto.",
+      "Solo cuando se traten temas de presupuesto.",
+      "Sí, con voz y voto de calidad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-072",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué otros miembros no consejeros deben asistir a las reuniones del Consejo según el artículo 20º?",
+    "options": [
+      "El Gerente y el Asesor Jurídico de la empresa.",
+      "Los portavoces de todos los partidos políticos.",
+      "El Cronista de la Ciudad.",
+      "Representantes de los cementerios privados."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-073",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la condición de asistencia para el Gerente y el Asesor Jurídico al Consejo?",
+    "options": [
+      "Con voz y con voto.",
+      "Con voz y sin voto.",
+      "Sin voz y sin voto, como meros observadores.",
+      "Solo asisten si son invitados por unanimidad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-074",
+    "topic": "Estatutos EFM",
+    "question": "¿Pueden asistir al Consejo de Administración personas distintas a las mencionadas expresamente?",
+    "options": [
+      "No, el Consejo es secreto y cerrado.",
+      "Sí, aquellas personas que se estime oportuno.",
+      "Solo si son familiares de los consejeros.",
+      "Solo si son periodistas acreditados."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-075",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo comienza el ejercicio social según el artículo 21º?",
+    "options": [
+      "El día de la constitución de la sociedad.",
+      "El primero de enero de cada año.",
+      "El 1 de junio coincidiendo con el año fiscal.",
+      "El día después de la aprobación del presupuesto municipal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-076",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo termina el ejercicio social de la EFM?",
+    "options": [
+      "El 30 de noviembre.",
+      "El treinta y uno de diciembre de cada año.",
+      "El 30 de junio.",
+      "Al finalizar la legislatura."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-077",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién formula las cuentas anuales de la sociedad?",
+    "options": [
+      "El Interventor del Ayuntamiento.",
+      "El órgano de administración.",
+      "El Gerente en solitario.",
+      "Una auditoría externa obligatoriamente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-078",
+    "topic": "Estatutos EFM",
+    "question": "Además de las cuentas, ¿qué otro documento debe formular el órgano de administración según el artículo 22º?",
+    "options": [
+      "El informe de gestión y la propuesta de aplicación del resultado.",
+      "El calendario laboral del año siguiente.",
+      "La lista de precios de los servicios mortuorios.",
+      "El reglamento de régimen interno del cementerio."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-079",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué normativa debe observarse para la aplicación del resultado según el artículo 23º?",
+    "options": [
+      "Únicamente los deseos de la Junta General.",
+      "Las disposiciones legales sobre reservas, provisiones y amortizaciones.",
+      "El resultado debe entregarse íntegramente a fines benéficos.",
+      "Se debe repartir como dividendo entre los regidores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-080",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién resuelve sobre la aplicación del resultado?",
+    "options": [
+      "El Consejo de Administración.",
+      "La Junta General.",
+      "El Gerente.",
+      "El Pleno en sesión extraordinaria de presupuestos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-081",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo se disuelve la sociedad según el artículo 24º?",
+    "options": [
+      "Por decreto de la Alcaldía únicamente.",
+      "Por acuerdo de la Junta General adoptado en cualquier tiempo.",
+      "Automáticamente al cabo de 50 años.",
+      "Por orden del Ministerio de Hacienda."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-082",
+    "topic": "Estatutos EFM",
+    "question": "En caso de disolución, ¿quién nombra a los liquidadores?",
+    "options": [
+      "El Juez de lo Mercantil.",
+      "La Junta General.",
+      "El Consejo de Administración saliente.",
+      "El Colegio de Abogados."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-083",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué característica debe tener el número de liquidadores?",
+    "options": [
+      "Debe ser un número par.",
+      "Será siempre en número impar.",
+      "Debe haber exactamente tres liquidadores.",
+      "No hay restricción sobre el número de liquidadores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-084",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién corresponde establecer la forma de división del haber social tras la liquidación?",
+    "options": [
+      "Al Alcalde.",
+      "A la Junta General.",
+      "Al Gerente.",
+      "A la Comisión Liquidadora del Estado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-085",
+    "topic": "Estatutos EFM",
+    "question": "¿En qué fecha fueron aprobados originalmente estos estatutos?",
+    "options": [
+      "1 de enero de 2000.",
+      "27 de enero de 2005.",
+      "31 de marzo de 2008.",
+      "29 de octubre de 2020."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-086",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo se produjo la modificación del artículo 13 relativo a la composición del Consejo?",
+    "options": [
+      "27 de enero de 2005.",
+      "31 de marzo de 2008.",
+      "30 de marzo de 2009.",
+      "29 de octubre de 2020."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-087",
+    "topic": "Estatutos EFM",
+    "question": "¿En qué fecha se modificó el artículo 19 referente a la Gerencia?",
+    "options": [
+      "31 de marzo de 2008.",
+      "30 de marzo de 2009.",
+      "27 de enero de 2005.",
+      "Nunca se ha modificado."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-088",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la modificación más reciente mencionada en el documento?",
+    "options": [
+      "La del artículo 13.",
+      "La del artículo 5 aprobada el 29 de octubre de 2020.",
+      "La del objeto social.",
+      "La del domicilio social."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-089",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 17º, ¿puede el Consejo actuar en nombre de la sociedad ante el Tribunal Supremo?",
+    "options": [
+      "No, solo ante juzgados locales.",
+      "Sí, ejerciendo toda clase de acciones en defensa de sus derechos.",
+      "Solo si el Ayuntamiento lo autoriza expresamente.",
+      "Solo en materia de urbanismo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-090",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo otorgar poderes generales para todo tipo de acuerdos?",
+    "options": [
+      "Sí, según el artículo 12º.",
+      "No, cada poder debe ser específico para un solo acto.",
+      "Solo si el poder es para el Gerente.",
+      "Solo si se inscribe en el Boletín de la Provincia."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-091",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría decide la urgencia de un asunto no incluido en el orden del día del Consejo?",
+    "options": [
+      "Dos tercios de los asistentes.",
+      "Mayoría de los miembros del Consejo, presentes o ausentes.",
+      "Unanimidad de los asistentes.",
+      "La decisión personal del Presidente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-092",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién dirige las deliberaciones en las reuniones del Consejo?",
+    "options": [
+      "El Secretario.",
+      "El Presidente.",
+      "El Gerente.",
+      "El consejero más antiguo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-093",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo deben votarse los asuntos del orden del día?",
+    "options": [
+      "En bloque para ganar tiempo.",
+      "Cada uno será objeto de votación separada.",
+      "Por sorteo.",
+      "Solo se votan los temas económicos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-094",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuándo puede ser secreta una votación en el Consejo?",
+    "options": [
+      "Nunca, debe ser siempre pública por transparencia.",
+      "Por decisión del presidente o a petición de la mayoría de los asistentes.",
+      "Solo si se trata de despidos.",
+      "Siempre que lo pida un solo consejero."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-095",
+    "topic": "Estatutos EFM",
+    "question": "¿Es posible adoptar acuerdos por escrito y sin sesión en el Consejo?",
+    "options": [
+      "No, es obligatorio reunirse físicamente.",
+      "Sí, cuando ningún consejero se oponga a este procedimiento.",
+      "Solo durante estados de alarma.",
+      "Solo para temas menores de 600 €."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-096",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién tiene la facultad de representar a la sociedad fuera de juicio?",
+    "options": [
+      "Solo el Alcalde.",
+      "El Consejo de Administración.",
+      "El Comité de Empresa.",
+      "El Jefe de Prensa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-097",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la excepción a las facultades de contratación del Consejo?",
+    "options": [
+      "Asuntos competencia de otros órganos o no incluidos en el objeto social.",
+      "Contratos de más de 1.000 €.",
+      "Contratos de personal laboral.",
+      "No tiene ninguna excepción."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-098",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién corresponde ejecutar los acuerdos adoptados por la Junta General?",
+    "options": [
+      "Al propio Ayuntamiento.",
+      "Al Consejo de Administración.",
+      "Al Gerente exclusivamente.",
+      "A la Policía Local."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-099",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración renunciar a privilegios o derechos de la sociedad?",
+    "options": [
+      "No, está prohibido por ley.",
+      "Sí, mediante pago o sin él, según juzgue conveniente.",
+      "Solo con permiso del Ministerio de Economía.",
+      "Solo si la renuncia es a favor del Ayuntamiento."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-100",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién tiene la facultad de abrir y cerrar cuentas corrientes en el Banco de España?",
+    "options": [
+      "El Tesorero Municipal.",
+      "El Consejo de Administración.",
+      "El Gerente con firma mancomunada del Interventor.",
+      "La Junta General en su reunión anual."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-101",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién corresponde la inspección y vigilancia de la gestión social según el artículo 17º.a)?",
+    "options": [
+      "Al Interventor General del Estado.",
+      "Al Consejo de Administración.",
+      "Al comité de empresa.",
+      "A los ciudadanos mediante consulta popular."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-102",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración fijar los precios de los servicios mortuorios?",
+    "options": [
+      "No, es competencia exclusiva del Ministerio de Consumo.",
+      "Sí, proponer las tarifas de servicios para su aprobación por el órgano competente.",
+      "Sí, pero solo los precios de las coronas de flores.",
+      "Los precios son libres y los decide el Gerente sin informar al Consejo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-103",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué facultad tiene el Consejo respecto a las acciones judiciales de \"confesión en juicio\"?",
+    "options": [
+      "Está prohibido que la empresa confiese.",
+      "El Consejo puede absolver posiciones en nombre de la sociedad.",
+      "Solo el Alcalde puede autorizar una confesión judicial.",
+      "Solo se permite en juicios penales."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-104",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 17º.f), ¿quién puede retirar fondos de los Bancos donde la sociedad tenga cuenta?",
+    "options": [
+      "Cualquier consejero con su DNI.",
+      "El Consejo de Administración mediante las personas autorizadas.",
+      "El Gerente, pero solo en efectivo.",
+      "El conserje mayor de edad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-105",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué órgano decide sobre la participación de la EFM en otras sociedades mercantiles?",
+    "options": [
+      "El Gerente.",
+      "La Junta General, a propuesta del Consejo.",
+      "El Gobierno de las Illes Balears.",
+      "El Registro Mercantil."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-106",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién redacta el Reglamento de Régimen Interior de la sociedad?",
+    "options": [
+      "El Consejo de Administración para elevarlo a la Junta General.",
+      "Los sindicatos mayoritarios.",
+      "Una consultora externa obligatoriamente.",
+      "El Gerente en su primer mes de mandato."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-107",
+    "topic": "Estatutos EFM",
+    "question": "Las facultades del Consejo en materia de personal incluyen:",
+    "options": [
+      "Únicamente el nombramiento de personal directivo.",
+      "Nombrar, contratar, señalar sueldos, sancionar y despedir al personal de la Sociedad.",
+      "No tiene facultades de personal, que corresponden al Ayuntamiento.",
+      "Solo la formación del personal, no su contratación."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-108",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué sucede si el Presidente y el Vicepresidente del Consejo están ausentes en una sesión?",
+    "options": [
+      "Se suspende la sesión obligatoriamente.",
+      "El Consejo elegirá de entre los miembros asistentes a quien deba presidirla.",
+      "Preside el Secretario.",
+      "Preside el Gerente por ser el jefe administrativo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-109",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 15º, los acuerdos del Consejo se consignarán en:",
+    "options": [
+      "Un tablón público en la calle.",
+      "Un libro de actas, firmadas por el Presidente y el Secretario.",
+      "Una base de datos en la nube sin firma.",
+      "El diario local de mayor tirada."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-110",
+    "topic": "Estatutos EFM",
+    "question": "El Secretario del Consejo, en relación con las actas, tiene la función de:",
+    "options": [
+      "Custodiarlas y certificar sus acuerdos.",
+      "Redactarlas a mano exclusivamente.",
+      "Enviarlas al Rey de España.",
+      "No tiene funciones sobre las actas, solo asiste a las reuniones."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-111",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es el quórum necesario para que el Consejo se reúna en segunda convocatoria si no se llega a la mayoría absoluta en la primera?",
+    "options": [
+      "Tres miembros.",
+      "Cinco miembros.",
+      "Los estatutos no mencionan una \"segunda convocatoria\" con quórum reducido; exigen la concurrencia de la mitad más uno.",
+      "Basta con el Presidente y el Secretario."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-112",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué cargo del Ayuntamiento actúa habitualmente como Secretario de la Junta General?",
+    "options": [
+      "El Secretario General del Pleno del Ayuntamiento de Palma.",
+      "El Secretario del Consejo de Administración de la EFM.",
+      "El Gerente de la sociedad.",
+      "El Notario más antiguo de la ciudad."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-113",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué documento justifica la propiedad de las acciones frente a la sociedad?",
+    "options": [
+      "Un recibo de transferencia bancaria.",
+      "La inscripción en el Libro Registro de Títulos Nominativos.",
+      "Una declaración jurada del Alcalde.",
+      "El carné de concejal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-114",
+    "topic": "Estatutos EFM",
+    "question": "En la distribución del capital social, las acciones son:",
+    "options": [
+      "De distintas clases con diferentes derechos.",
+      "De una sola serie e iguales derechos.",
+      "Privadas en un 49%.",
+      "Al portador."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-115",
+    "topic": "Estatutos EFM",
+    "question": "El cargo de Consejero de la EFM es:",
+    "options": [
+      "Retribuido con un sueldo mensual fijo.",
+      "Gratuito, sin perjuicio de las dietas por asistencia que pueda fijar la Junta General.",
+      "Vitalicio.",
+      "Elegido por sorteo entre los trabajadores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-116",
+    "topic": "Estatutos EFM",
+    "question": "El Gerente, en el ejercicio de su cargo, debe:",
+    "options": [
+      "Seguir las directrices del Consejo de Administración.",
+      "Actuar según su propio criterio sin informar al Consejo.",
+      "Consultar cada decisión con los sindicatos.",
+      "Tener el visto bueno del Secretario del Pleno para cada gasto."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-117",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría se requiere para modificar los Estatutos de la sociedad?",
+    "options": [
+      "Mayoría simple del Consejo.",
+      "Acuerdo de la Junta General con las mayorías legales establecidas.",
+      "Firma del Gerente y el Presidente.",
+      "Solo lo puede modificar el Parlamento Balear."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-118",
+    "topic": "Estatutos EFM",
+    "question": "El Interventor del Ayuntamiento, al asistir al Consejo:",
+    "options": [
+      "Puede votar en asuntos financieros.",
+      "Tiene voz pero no voto.",
+      "No puede hablar, solo escuchar.",
+      "Debe presidir la comisión de cuentas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-119",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es el valor nominal total del capital social resultante de multiplicar el número de acciones por su valor unitario (según art. 5)?",
+    "options": [
+      "3.847.509,40 €.",
+      "3.943.697,14 €.",
+      "4.000.000,00 €.",
+      "1.025.000,00 €."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-120",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué órgano es competente para aprobar el balance y la memoria anual?",
+    "options": [
+      "El Consejo de Administración.",
+      "La Junta General.",
+      "La Agencia Tributaria.",
+      "El Colegio de Economistas."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-121",
+    "topic": "Estatutos EFM",
+    "question": "La duración del cargo de Gerente es:",
+    "options": [
+      "De 4 años obligatoriamente.",
+      "La que determine el Consejo de Administración en su nombramiento.",
+      "Hasta la jubilación.",
+      "Por periodos de un año prorrogables."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-122",
+    "topic": "Estatutos EFM",
+    "question": "El domicilio social puede ser trasladado dentro del mismo término municipal por:",
+    "options": [
+      "Acuerdo del Consejo de Administración (salvo que los estatutos digan lo contrario, art. 17.k).",
+      "El Gerente por razones de urgencia.",
+      "Los trabajadores mediante huelga.",
+      "El Ministerio de Justicia."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-123",
+    "topic": "Estatutos EFM",
+    "question": "Los acuerdos del Consejo de Administración son ejecutivos:",
+    "options": [
+      "A los 30 días de su adopción.",
+      "Desde el momento de su adopción, salvo que se disponga lo contrario.",
+      "Cuando los apruebe el Alcalde por decreto.",
+      "Solo después de publicarse en el BOIB."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-124",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién actúa como Presidente de la Junta General?",
+    "options": [
+      "El Gerente de la EFM.",
+      "El Alcalde de Palma (o quien legalmente le sustituya en el Pleno).",
+      "El Consejero más antiguo.",
+      "El Presidente del Gobierno Balear."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-125",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué sucede si una acción pertenece a varias personas pro-indiviso?",
+    "options": [
+      "Cada una tiene medio voto.",
+      "Deben designar a una sola persona para el ejercicio de los derechos de socio.",
+      "Se anula el derecho a voto de esa acción.",
+      "Se divide la acción en fragmentos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-126",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración transigir (llegar a acuerdos) en pleitos?",
+    "options": [
+      "No, debe esperar siempre a la sentencia.",
+      "Sí, tiene facultades para transigir en derechos y acciones.",
+      "Solo si el acuerdo es a favor de la empresa.",
+      "Solo en pleitos de cuantía inferior a 1.000 €."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-127",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué tipo de entidad es la EFM según su forma jurídica?",
+    "options": [
+      "Sociedad de Responsabilidad Limitada.",
+      "Sociedad Anónima.",
+      "Ente Público Empresarial.",
+      "Cooperativa municipal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-128",
+    "topic": "Estatutos EFM",
+    "question": "El capital social de la EFM está desembolsado en un:",
+    "options": [
+      "25%.",
+      "50%.",
+      "100% (Totalmente suscrito y desembolsado).",
+      "75%."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-129",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién convoca la Junta General con carácter extraordinario?",
+    "options": [
+      "El Presidente del Consejo de Administración.",
+      "El Gerente.",
+      "El Director de Recursos Humanos.",
+      "Un grupo de 10 vecinos."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-130",
+    "topic": "Estatutos EFM",
+    "question": "El Gerente tiene la obligación de presentar al Consejo:",
+    "options": [
+      "Un informe semanal de gastos.",
+      "Los estados financieros y la memoria en los plazos legales.",
+      "La lista de la compra de la oficina.",
+      "Un plan de marketing diario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-131",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría se necesita en el Consejo para adoptar acuerdos en \"primera votación\" ante un empate previo?",
+    "options": [
+      "El voto de calidad del Presidente.",
+      "Unanimidad.",
+      "Dos tercios.",
+      "No existe la primera votación en caso de empate, se decide por sorteo."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-132",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién se le notifica la convocatoria de las reuniones del Consejo?",
+    "options": [
+      "A todos los ciudadanos de Palma.",
+      "A cada uno de los miembros del Consejo de Administración.",
+      "Solo al Presidente y al Gerente.",
+      "Al BOIB para su publicación oficial."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-133",
+    "topic": "Estatutos EFM",
+    "question": "El acta de una sesión del Consejo debe ser aprobada:",
+    "options": [
+      "Al final de la propia sesión o en la siguiente.",
+      "Un año después.",
+      "Por el Pleno del Ayuntamiento.",
+      "No es necesaria su aprobación, basta con redactarla."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-134",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué artículo regula la figura del Secretario del Consejo?",
+    "options": [
+      "Artículo 1º.",
+      "Artículo 8º.",
+      "Artículo 16º.",
+      "Artículo 25º."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-135",
+    "topic": "Estatutos EFM",
+    "question": "En la formación del Consejo, ¿pueden participar expertos que no sean políticos?",
+    "options": [
+      "No, solo pueden ser Regidores.",
+      "Sí, personas de reconocida competencia profesional o técnica.",
+      "Solo si son familiares de los Regidores.",
+      "Solo si trabajan en el cementerio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-136",
+    "topic": "Estatutos EFM",
+    "question": "El Consejo de Administración puede delegar en el Gerente:",
+    "options": [
+      "La facultad de modificar los estatutos.",
+      "Las facultades que estime convenientes de las mencionadas en el artículo 17º.",
+      "El cargo de Presidente de la sociedad.",
+      "El derecho de propiedad de las acciones."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-137",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es el quórum de asistencia para la Junta General?",
+    "options": [
+      "El mismo que para las sesiones del Pleno del Ayuntamiento.",
+      "100% de los accionistas siempre.",
+      "3 personas.",
+      "10 personas."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-138",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué sucede con los beneficios de la sociedad que no van a reservas?",
+    "options": [
+      "Se reparten entre los consejeros.",
+      "Se aplican según decida la Junta General (normalmente reinversión o aportación al Ayuntamiento).",
+      "Se queman simbólicamente.",
+      "Se guardan en una caja fuerte en el cementerio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-139",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién debe firmar la propuesta de aplicación del resultado?",
+    "options": [
+      "Los auditores.",
+      "El órgano de administración (Consejo).",
+      "El jefe de contabilidad.",
+      "El sindicato mayoritario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-140",
+    "topic": "Estatutos EFM",
+    "question": "La impugnación de los acuerdos sociales se rige por:",
+    "options": [
+      "El reglamento de fútbol profesional.",
+      "La legislación sobre sociedades de capital.",
+      "El derecho canónico.",
+      "La voluntad del Alcalde."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-141",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración vender bienes inmuebles de la sociedad?",
+    "options": [
+      "No, nunca.",
+      "Sí, dentro de sus facultades de disposición.",
+      "Solo si están en ruinas.",
+      "Solo si tienen más de 100 años."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-142",
+    "topic": "Estatutos EFM",
+    "question": "El Asesor Jurídico de la empresa asiste al Consejo para:",
+    "options": [
+      "Votar los acuerdos legales.",
+      "Prestar asesoramiento técnico-legal con voz pero sin voto.",
+      "Sustituir al Secretario.",
+      "Vigilar que los consejeros no se duerman."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-143",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién ejerce la jefatura directa del personal de la sociedad?",
+    "options": [
+      "El Presidente del Consejo.",
+      "El Gerente.",
+      "El Regidor de Urbanismo.",
+      "El portero del tanatorio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-144",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué artículo establece que la sociedad tiene duración indefinida?",
+    "options": [
+      "Artículo 1º.",
+      "Artículo 3º.",
+      "Artículo 10º.",
+      "Artículo 20º."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-145",
+    "topic": "Estatutos EFM",
+    "question": "Los acuerdos de la Junta General obligan a:",
+    "options": [
+      "Solo a los que votaron a favor.",
+      "A todos los socios, incluso a los disidentes y ausentes.",
+      "Solo al Gerente.",
+      "A nadie, son meras recomendaciones."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-146",
+    "topic": "Estatutos EFM",
+    "question": "El capital social se dividió en 1.025 acciones mediante:",
+    "options": [
+      "La fundación de la sociedad.",
+      "Una modificación estatutaria posterior (mencionada en las notas finales).",
+      "Un decreto del Gobierno de España.",
+      "Una apuesta."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-147",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién tiene la representación legal de la sociedad ante terceros?",
+    "options": [
+      "El Consejo de Administración.",
+      "El conserje.",
+      "La asociación de vecinos.",
+      "El notario."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-148",
+    "topic": "Estatutos EFM",
+    "question": "Las sesiones del Consejo se celebran habitualmente en:",
+    "options": [
+      "El domicilio social de la empresa.",
+      "Un hotel de 5 estrellas.",
+      "La playa de Palma.",
+      "Un restaurante."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-149",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué facultades NO puede delegar el Consejo?",
+    "options": [
+      "Las de contratación menor.",
+      "La rendición de cuentas y la presentación de balances a la Junta General.",
+      "El nombramiento de personal de limpieza.",
+      "La firma de cartas ordinarias."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-150",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién es responsable de que la contabilidad sea exacta?",
+    "options": [
+      "El Gerente y el Consejo de Administración.",
+      "El Ministerio de Hacienda.",
+      "El servicio de correos.",
+      "Los clientes de la funeraria."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-151",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría se requiere para que el Consejo de Administración pueda delegar la facultad de representar a la sociedad con carácter permanente en un Consejero Delegado?",
+    "options": [
+      "Mayoría simple de los asistentes.",
+      "Mayoría absoluta de los componentes.",
+      "El voto favorable de las dos terceras partes de los componentes del Consejo.",
+      "Unanimidad absoluta de todos los regidores de Palma."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-152",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 15º, si un asunto no está en el orden del día, ¿qué requisito debe cumplirse para que el acuerdo sea válido?",
+    "options": [
+      "Que se declare la urgencia por mayoría de miembros y estén presentes todos los consejeros.",
+      "Basta con que el Presidente lo considere oportuno.",
+      "Que sea un asunto de menos de 6.000 euros.",
+      "No se puede adoptar ningún acuerdo bajo ninguna circunstancia si no está en el orden del día."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-153",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién asume las funciones del Presidente del Consejo en caso de vacante, ausencia o enfermedad?",
+    "options": [
+      "El Secretario.",
+      "El Gerente.",
+      "El Vicepresidente.",
+      "El vocal de mayor edad."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-154",
+    "topic": "Estatutos EFM",
+    "question": "¿A quién corresponde autorizar con su visto bueno las certificaciones de las actas del Consejo?",
+    "options": [
+      "Al Alcalde siempre.",
+      "Al Presidente o, en su defecto, al Vicepresidente.",
+      "Al Interventor Municipal.",
+      "Al Gerente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-155",
+    "topic": "Estatutos EFM",
+    "question": "En materia de depósitos de fondos, ¿puede el Consejo operar con entidades que no sean el Banco de España?",
+    "options": [
+      "No, solo se permite operar con el Banco de España.",
+      "Sí, en cualesquiera otros Bancos o establecimientos de crédito.",
+      "Solo si son bancos con sede en Palma.",
+      "Solo si cuentan con autorización del Ministerio de Hacienda."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-156",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué facultad tiene el Consejo respecto a las deudas de la sociedad según el artículo 17º.g)?",
+    "options": [
+      "Solo puede pagar deudas en efectivo.",
+      "Puede reconocer deudas y determinar la forma de su pago.",
+      "No tiene facultades sobre deudas, que corresponden al Ayuntamiento.",
+      "Solo puede reconocer deudas de personal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-157",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién ostenta la facultad de \"dar poderes y revocarlos\" según los estatutos?",
+    "options": [
+      "Solo la Junta General.",
+      "El Consejo de Administración.",
+      "El Gerente, previa consulta con los sindicatos.",
+      "El Notario de Palma."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-158",
+    "topic": "Estatutos EFM",
+    "question": "Según el artículo 18º, ¿puede el Consejo nombrar a \"cualquier otra persona\" para delegar facultades representativas?",
+    "options": [
+      "No, solo en miembros del Consejo.",
+      "Sí, el Consejo puede delegar en quien estime oportuno.",
+      "Solo si esa persona es funcionario del Ayuntamiento.",
+      "Solo si la persona tiene un máster en gestión funeraria."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-159",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál de los siguientes NO es un órgano de administración según el artículo 8º?",
+    "options": [
+      "La Junta General.",
+      "El Consejo de Administración.",
+      "El Comité de Empresa.",
+      "La Dirección o Gerencia."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-160",
+    "topic": "Estatutos EFM",
+    "question": "El cargo de Gerente, al ser considerado \"alto cargo\", ¿por qué ley se rige en cuanto a incompatibilidades?",
+    "options": [
+      "Por el Estatuto de los Trabajadores exclusivamente.",
+      "Por la normativa vigente de aplicación en la materia de incompatibilidades.",
+      "No tiene régimen de incompatibilidades.",
+      "Solo por el Código Penal."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-161",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué titulación se exige al Gerente si NO es funcionario (procede del sector privado)?",
+    "options": [
+      "Título de Bachillerato.",
+      "Título superior.",
+      "Formación Profesional de Grado Medio.",
+      "No se exige titulación si tiene 20 años de experiencia."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-162",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién determina la retribución económica del cargo de Gerente?",
+    "options": [
+      "El Consejo de Administración.",
+      "La Junta General.",
+      "El Alcalde por decreto.",
+      "Los trabajadores mediante convenio colectivo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-163",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué figura profesional debe asistir al Consejo para velar por la legalidad de los acuerdos?",
+    "options": [
+      "El Cronista de la ciudad.",
+      "El Asesor Jurídico de la Empresa.",
+      "El Decano de los Notarios.",
+      "Un inspector de policía."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-164",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede una sesión del Consejo celebrarse fuera del domicilio social?",
+    "options": [
+      "No, está prohibido por los estatutos.",
+      "Sí, siempre que se indique en la convocatoria y haya causa justificada.",
+      "Solo en la sede del Ayuntamiento (Plaza de Cort).",
+      "Solo en el cementerio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-165",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué sucede si un consejero se abstiene en una votación?",
+    "options": [
+      "Su voto se suma a la mayoría.",
+      "Su voto se suma a la minoría.",
+      "Se computa la abstención pero no suma para el acuerdo.",
+      "Se le sanciona económicamente."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-166",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién tiene la última palabra sobre el nombramiento del Secretario si este NO es consejero?",
+    "options": [
+      "El Alcalde.",
+      "El Consejo de Administración.",
+      "El Colegio de Secretarios.",
+      "El Interventor."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-167",
+    "topic": "Estatutos EFM",
+    "question": "En la disolución de la sociedad, si no se nombra un liquidador específico, ¿quién asume la función?",
+    "options": [
+      "El Alcalde.",
+      "Los miembros del Consejo de Administración se convierten en liquidadores.",
+      "El Juez de lo Mercantil.",
+      "El Gerente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-168",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué artículo establece el régimen de liquidación de la sociedad?",
+    "options": [
+      "Artículo 5º.",
+      "Artículo 15º.",
+      "Artículo 25º.",
+      "Artículo 30º."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-169",
+    "topic": "Estatutos EFM",
+    "question": "Según las notas finales del documento, ¿qué artículo fue modificado el 31 de marzo de 2008?",
+    "options": [
+      "El artículo 1º.",
+      "El artículo 13º.",
+      "El artículo 24º.",
+      "Ninguno, esa fecha no figura."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-170",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué se modificó en el artículo 13º en la reforma de marzo de 2008?",
+    "options": [
+      "El capital social.",
+      "La composición del Consejo de Administración.",
+      "El objeto social.",
+      "El domicilio."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-171",
+    "topic": "Estatutos EFM",
+    "question": "El acuerdo de la Junta General de 29 de octubre de 2020 modificó el artículo 5º para:",
+    "options": [
+      "Cambiar el nombre de la empresa.",
+      "Actualizar el capital social y el número de acciones a 1.025.",
+      "Disolver la sociedad.",
+      "Nombrar a un nuevo Gerente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-172",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué normativa supletoria se aplica en lo no previsto por los estatutos de la EFM?",
+    "options": [
+      "El Código Civil francés.",
+      "La legislación sobre sociedades de capital y normativa de régimen local.",
+      "La normativa de la FIFA.",
+      "La costumbre del lugar."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-173",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración decidir la compra de nuevos vehículos fúnebres?",
+    "options": [
+      "No, debe hacerlo el Alcalde.",
+      "Sí, dentro de sus facultades de contratación y disposición.",
+      "Solo si son vehículos eléctricos.",
+      "Solo con el voto unánime de la Junta General."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-174",
+    "topic": "Estatutos EFM",
+    "question": "En el caso de \"voto por escrito y sin sesión\", ¿quién debe recibir los votos?",
+    "options": [
+      "El Gerente.",
+      "El Secretario del Consejo.",
+      "El Presidente.",
+      "El Notario."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-175",
+    "topic": "Estatutos EFM",
+    "question": "¿Es obligatorio que el Consejo de Administración se reúna al menos una vez al mes?",
+    "options": [
+      "Sí, es obligatorio por ley.",
+      "No, se reunirá cuantas veces sea necesario a juicio del Presidente o a instancia de un tercio de los consejeros.",
+      "Se reúne solo una vez al año.",
+      "Se reúne cada cuatro años."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-176",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué facultad tiene el Consejo sobre las \"reservas\" de la sociedad?",
+    "options": [
+      "Puede gastarlas en cenas de Navidad.",
+      "Debe proponer su aplicación a la Junta General cumpliendo la legalidad.",
+      "Ninguna, las reservas son del Estado.",
+      "Puede repartirlas entre los ciudadanos de Palma."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-177",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién representa a la sociedad en la firma de escrituras públicas de aumento de capital?",
+    "options": [
+      "El Interventor.",
+      "Las personas facultadas para certificar acuerdos sociales (Secretario con V.B. del Presidente).",
+      "El accionista mayoritario.",
+      "El bedel de la oficina."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-178",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué ocurre si un consejero fallece durante su mandato?",
+    "options": [
+      "Se hereda el cargo.",
+      "Se produce el cese y se debe nombrar un sustituto por el órgano competente.",
+      "El Consejo continúa con un miembro menos hasta el final de la legislatura.",
+      "Se suspende la actividad de la empresa."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-179",
+    "topic": "Estatutos EFM",
+    "question": "El Gerente tiene la facultad de asistir a la Junta General:",
+    "options": [
+      "Con voz y voto.",
+      "Solo si es accionista.",
+      "Como técnico informador si es requerido, asistiendo normalmente al Consejo.",
+      "No puede entrar en la Junta General."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "EFM-180",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién tiene la competencia para aprobar la gestión del Consejo de Administración?",
+    "options": [
+      "Los auditores externos.",
+      "La Junta General.",
+      "El Ministerio de Política Territorial.",
+      "El Gerente."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-181",
+    "topic": "Estatutos EFM",
+    "question": "¿Cómo se denominan las acciones de la EFM?",
+    "options": [
+      "Acciones al portador.",
+      "Títulos nominativos.",
+      "Acciones preferentes.",
+      "Cuotas de participación social."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-182",
+    "topic": "Estatutos EFM",
+    "question": "¿A qué se refiere el \"haber social\" en el artículo 25º?",
+    "options": [
+      "Al patrimonio resultante de la sociedad tras liquidar deudas.",
+      "Al sueldo de los trabajadores.",
+      "A la lista de clientes.",
+      "Al inventario de cementerios."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-183",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría se exige en el Consejo para declarar la urgencia de una convocatoria?",
+    "options": [
+      "Unanimidad.",
+      "Mayoría simple de los presentes.",
+      "Dos tercios.",
+      "No existe la convocatoria de urgencia en el Consejo."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-184",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién es responsable de convocar la Junta General ordinaria dentro de los seis primeros meses del año?",
+    "options": [
+      "El Gerente.",
+      "El Consejo de Administración.",
+      "El Presidente del Gobierno.",
+      "El Juez de Paz."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-185",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es el objeto de la sesión ordinaria de la Junta General?",
+    "options": [
+      "Aprobar la gestión social, las cuentas del ejercicio anterior y resolver sobre la aplicación del resultado.",
+      "Elegir al Alcalde de Palma.",
+      "Cambiar el color de los uniformes.",
+      "Aprobar las vacaciones del personal."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-186",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración sancionar a un trabajador?",
+    "options": [
+      "No, es competencia del Juez de lo Social.",
+      "Sí, según la facultad h) del artículo 17º.",
+      "Solo si el trabajador está de acuerdo.",
+      "Solo si la sanción es de más de 1.000 euros."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-187",
+    "topic": "Estatutos EFM",
+    "question": "¿En qué libro se anotan los nombres de los propietarios de las acciones?",
+    "options": [
+      "Libro de visitas.",
+      "Libro Registro de Títulos Nominativos.",
+      "Libro de Familia.",
+      "Registro de la Propiedad Intelectual."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-188",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué órgano tiene la potestad de decidir la emisión de obligaciones?",
+    "options": [
+      "El Gerente.",
+      "La Junta General.",
+      "El Consejo de Administración.",
+      "El Banco de España."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-189",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el cargo de Presidente del Consejo recaer en una persona que NO sea Regidor?",
+    "options": [
+      "No, debe ser Regidor de la Corporación.",
+      "Sí, puede ser un profesional externo de prestigio.",
+      "Solo si es el Gerente.",
+      "Los estatutos no lo especifican, pero es nombrado por la Junta General de entre los consejeros."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-190",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué se entiende por \"voto de calidad\" del Presidente?",
+    "options": [
+      "Que su voto vale por tres.",
+      "Que decide el resultado de la votación en caso de empate.",
+      "Que su voto es secreto.",
+      "Que no necesita votar porque siempre gana."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-191",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué artículo regula la duración de la sociedad?",
+    "options": [
+      "Artículo 2º.",
+      "Artículo 3º.",
+      "Artículo 4º.",
+      "Artículo 5º."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-192",
+    "topic": "Estatutos EFM",
+    "question": "Los Estatutos de la EFM forman parte de:",
+    "options": [
+      "El ordenamiento jurídico privado de la sociedad.",
+      "El código de circulación.",
+      "El manual de primeros auxilios.",
+      "La Constitución Española."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-193",
+    "topic": "Estatutos EFM",
+    "question": "¿Puede el Consejo de Administración arrendar naves industriales?",
+    "options": [
+      "No, solo cementerios.",
+      "Sí, dentro de sus facultades de administración y contratación.",
+      "Solo si están en el centro de Palma.",
+      "Solo si el alquiler es gratuito."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-194",
+    "topic": "Estatutos EFM",
+    "question": "¿Quién firma la convocatoria del Consejo de Administración?",
+    "options": [
+      "El Gerente.",
+      "El Presidente o quien le sustituya.",
+      "El Secretario del Ayuntamiento.",
+      "Todos los consejeros."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-195",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué mayoría se requiere para separar (destituir) a un consejero?",
+    "options": [
+      "Mayoría de dos tercios del Consejo.",
+      "Acuerdo de la Junta General (soberana para nombrar y separar).",
+      "Decisión personal del Gerente.",
+      "Petición de los vecinos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-196",
+    "topic": "Estatutos EFM",
+    "question": "¿En qué idioma oficial están redactados originalmente los estatutos según el encabezado?",
+    "options": [
+      "Catalán.",
+      "Castellano.",
+      "Inglés.",
+      "Alemán."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-197",
+    "topic": "Estatutos EFM",
+    "question": "El Consejo de Administración ejerce sus facultades bajo la supervisión de:",
+    "options": [
+      "La Junta General.",
+      "El Tribunal de Cuentas exclusivamente.",
+      "La OTAN.",
+      "El servicio de correos."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "EFM-198",
+    "topic": "Estatutos EFM",
+    "question": "¿Qué sucede con los acuerdos que van contra los estatutos?",
+    "options": [
+      "Son válidos si el Gerente los firma.",
+      "Pueden ser impugnados según la legislación mercantil.",
+      "Son obligatorios.",
+      "Se ignoran."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-199",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuántos capítulos tienen los Estatutos de la EFM?",
+    "options": [
+      "III capítulos.",
+      "V capítulos (I: Denominación/Objeto; II: Capital/Acciones; III: Órganos; IV: Régimen Económico; V: Disolución/Liquidación).",
+      "X capítulos.",
+      "No están divididos en capítulos."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "EFM-200",
+    "topic": "Estatutos EFM",
+    "question": "¿Cuál es la principal misión de la EFM según el preámbulo y artículo 2?",
+    "options": [
+      "Obtener el máximo beneficio económico privado.",
+      "La prestación de servicios funerarios y de cementerios encomendados por el Ayuntamiento de Palma.",
+      "Organizar fiestas patronales.",
+      "La gestión del tráfico en el cementerio."
+    ],
+    "answerIndex": 1
   }
+
 ]
-
-
-

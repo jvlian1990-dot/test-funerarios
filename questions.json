@@ -815,6 +815,151 @@
   ],
   "answerIndex": 2
 }
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "Segun el articulo 1, ¿Cual es el objeto principal del Dectro 11/2018?",
+  "options": [
+    "La regulacion de la policia sanitaria mortuoria a nivel estatal",
+    "Regular el ejercicio de la sanidad mortuoria en el ambito de la comunidad autonoma de las Illes Balears",
+    "La gestion exclusiva de los cementerios de titularidad privada",
+    "La regulacion de las practicas de trasplantes de organos y tejidos"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "¿Qué comprende la sanidad mortuoria como integrante de la actividad de la Administracion pública en materia de salud?",
+  "options": [
+    "Únicamente la regulacion de las practicas sanitarias sobre cadavers",
+    "Las condiciones tecnicas de las instalaciones, servicios funerarios y la funcion ispectora y sancionadora",
+    "El contro de la libertad religiosa en los entierros",
+    "La gestion administrativa del Registro Civil en materia de definiciones"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "De aceurdo con el articulo 2 ¿A que organos se atribuyen las facultades administrativas en materia de sanidad mortuoria en las Illes Balears?",
+  "options": [
+    "Al Ministerio de Sanidad y a los Ayuntamientos",
+    "A la Dirección General de Salud Pública y Participación y a los Consejos Insulares",
+    "A la Dirección General de Salud Pública y Participación y a los Ayuntamientos",
+    "Exclusivamente a la Consejería de Salud"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "¿Cuál de las sguientes es una funcion especifica de la Direccion Genereal de Salud Publica y Participación?",
+  "options": [
+    "La regulacion de los servicios funerarios dentro de su municipio",
+    "La habilitacion de las entidades prestadoras de servicios funerarios locales",
+    "Establecer las medidas de actuacion ante riesgos derivados del contagio o irradiaciones de los cadaveres",
+    "La organizacion y administracion de los cementerios de titularidad municipal"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "En situaciones epidemiologicas, ¿Quién tiene la competencia para ordenar el destino final de un cadaver?",
+  "options": [
+    "EL Ayuntamiento correspondiente",
+    "La Dirección General de Salud Pública y Participación",
+    "El medico que firma el certificado de defuncion",
+    "EL juez de Guardia"
+  ],
+  "answerIndex":2 
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "¿Qué funcion corresponde a los Ayuntamientos segun el articulo 2.3?",
+  "options": [
+    "Realizar la inspeccion de traslados interinsulares",
+    "La tramitacion y resolucion de los procedimientos de construccion, ampliacion, reforma o clausura de las instalaciones funerarias",
+    "Emitir informes sobre riesgos de irradiacion de cadaveres",
+    "LA inspeccion de cadaveres en exposiciones publicas"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "Según las definiciones del Articulo 3, ¿qué se entiende por 'cadáver'?",
+  "options": [
+    "El cuerpo humano durante los diez años siguientes a la muerte",
+    "El cuerpo humano durante los cinco años siguientes a la muerte",
+    "Los restos oseos una vez desaparecida la materia organica",
+    "El cuerpo humano desde el fallecimiento hasta su inhumacion"
+  ],
+  "answerIndex": 3
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "¿Desde que momento se computa el plazo para considerar a un cuerpo como 'cadaver'?",
+  "options": [
+    "Desde el momento del hallazgo del cuerpo",
+    "Desde la fimra del certificado medico de defuncion",
+    "Desde la fecha y hora de la uerte que figure en la inscripcion de la defuncion en el Registro Civil",
+    "Desde la llegada al tanatorio"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "¿Qué define el Decreto como 'Restos cadavericos'?",
+  "options": [
+    "Partes del cuerpo procedentes de abortos a partir de la smeana 14",
+    "Lo que queda del cuerpo humano una vez transcurridos cinco años desde la muerte, si han acabado los fenomenos de destruccion de materia organica",
+    "EL cuerpo humano durante los dos primero años tras la defuncion",
+    "Las cenizas resultantes de la incineracion"
+  ],
+  "answerIndex": 2
+}
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "¿Cuál es la definicion de 'Cenizas' según la norma?",
+  "options": [
+    "El residuo de la combustion de materiales del feretro",
+    "Lo que queda de un cadaver, restos humanos o restos cadavericos despues de la cremacion",
+    "Los restos oseos pulverizados manualmente tras la exhumacion",
+    "El producto de la descomposicion natural en fosa septica"
+  ],
+  "answerIndex": 2
+}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "id": "PDF-USO",
+  "topic": "Decreto 11/2018",
+  "question": "",
+  "options": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "answerIndex": 
+}
 ]
 
